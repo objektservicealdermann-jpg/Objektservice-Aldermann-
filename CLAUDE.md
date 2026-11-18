@@ -49,5 +49,5 @@ Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: al
 ## Schreibstil für Social Media & Google-Beiträge (Wunsch des Inhabers)
 - Persönlich, in der Ich-Form von Jan-Luca, wie er selbst reden würde – nicht nach Werbeagentur oder KI klingen.
 - Keine Emoji-Aufzählungen, höchstens mal ein einzelnes Emoji. Keine Floskeln.
-- Kunden siezen („Sie“). KEINEN Namen als Unterschrift (Inhaber möchte das nicht), nur die Telefonnummer 0176 23751407.
+- Kunden siezen („Sie“). Unterschrift immer: „Ihr Team von Objektservice Aldermann“ + 0176 23751407. Nie den Namen des Inhabers als Unterschrift.
 - Wenige Hashtags (max. ca. 8), ortsbezogen.
