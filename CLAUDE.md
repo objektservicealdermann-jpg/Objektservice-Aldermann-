@@ -45,3 +45,9 @@ Alle öffentlichen Dateien liegen im Ordner `public/` (nur dieser Ordner geht on
 
 ## Laufende Betreuung (Auftrag des Inhabers vom 19.11.2026)
 Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: alles am Laufen halten, regelmäßig Abwechslung (Saison-Band, Fotos, Texte), wöchentlich Google-Beitrag (`marketing/google-beitraege.md`), Instagram-Inhalte (Beiträge + Stories) erstellen. KI-generierte Bilder nie als eigene Arbeitsfotos ausgeben – nur als erkennbare Grafiken.
+
+## Schreibstil für Social Media & Google-Beiträge (Wunsch des Inhabers)
+- Persönlich, in der Ich-Form von Jan-Luca, wie er selbst reden würde – nicht nach Werbeagentur oder KI klingen.
+- Keine Emoji-Aufzählungen, höchstens mal ein einzelnes Emoji. Keine Floskeln.
+- Kunden siezen („Sie“). Unterschrift „Jan-Luca“ + Telefonnummer.
+- Wenige Hashtags (max. ca. 8), ortsbezogen.
