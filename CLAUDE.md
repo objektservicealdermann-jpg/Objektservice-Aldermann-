@@ -25,6 +25,10 @@ Kommunikation mit dem Inhaber immer auf Deutsch, einfach und ohne Fachjargon. Er
 Alle öffentlichen Dateien liegen im Ordner `public/` (nur dieser Ordner geht online).
 - `index.html` – Startseite (Hero mit Video `video/hero.mp4`, Poster `img/hero-poster.jpg`)
 - `leistungen/{gartenpflege,hausmeisterservice,reparatur-montage}/` – Leistungsseiten
+- `leistungen/winterdienst/` – Winterdienst (Grafik `img/winterdienst-grafik.jpg`, kein echtes Foto – beim ersten Schnee echtes Foto vom Inhaber einbauen)
+- `hausmeisterservice-{dueren,aachen,koeln,duesseldorf}/` – Städteseiten (eigene Texte, nicht kopieren)
+- Startseite: saisonales Band `.season-band` unter dem Hero (Winter: Winterdienst; ab März: Gartenpflege-Abo; ab Oktober: Laub/Heckenschnitt)
+- Google-Bewertung „5,0“ ist fest eingetragen (Startseite) – bei Änderungen der Bewertung anpassen
 - `impressum/`, `datenschutz/`, `404.html`
 - `css/style.css`, `js/main.js`, `img/`, `video/`, `sitemap.xml`, `robots.txt`, `_headers`
 - Kopf- und Fußbereich sind in jeder HTML-Datei enthalten – Änderungen dort auf allen Seiten nachziehen.
@@ -38,3 +42,6 @@ Alle öffentlichen Dateien liegen im Ordner `public/` (nur dieser Ordner geht on
 - **Domain-Registrar:** Squarespace, gekauft über Google Workspace. Login bei Squarespace nur mit dem Workspace-Konto objektservicealdermann@objektservicealdermann.com („Mit Google fortfahren“).
 - Alte Worker im Konto (objektservice-aldermann, delicate-cake-0577, broken-violet-25fe, purple-poetry-2f11) sind nicht mit der Adresse verbunden.
 - Cloudflare-API: Token „Claude Website“ ist als Netzwerk-Geheimnis in der Claude-Umgebung hinterlegt (nie im Klartext speichern).
+
+## Laufende Betreuung (Auftrag des Inhabers vom 19.11.2026)
+Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: alles am Laufen halten, regelmäßig Abwechslung (Saison-Band, Fotos, Texte), wöchentlich Google-Beitrag (`marketing/google-beitraege.md`), Instagram-Inhalte (Beiträge + Stories) erstellen. KI-generierte Bilder nie als eigene Arbeitsfotos ausgeben – nur als erkennbare Grafiken.
