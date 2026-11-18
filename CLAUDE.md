@@ -31,6 +31,10 @@ Alle öffentlichen Dateien liegen im Ordner `public/` (nur dieser Ordner geht on
 - Keine externen Schriften, Skripte, Cookies oder Tracking (Datenschutz). Neue Dienste immer in `datenschutz/` ergänzen.
 - Nach Änderungen `sitemap.xml` (lastmod) aktualisieren.
 
-## Veröffentlichung
-- Cloudflare-Projekt **aldermann-website** (Workers mit statischen Dateien, `wrangler.jsonc`), verbunden mit GitHub.
-- Was auf den Zweig **main** kommt, geht automatisch online.
+## Veröffentlichung & Technik
+- **Cloudflare-Konto:** Login mit objektservicealdermann@gmail.com („Mit Google anmelden“). Worker **aldermann-website** (statische Dateien, `wrangler.jsonc`, Ordner `public/`), per Workers Builds mit GitHub verbunden – was auf **main** landet, geht automatisch online.
+- **Adresse:** objektservicealdermann.com und www → Worker-Routen auf `aldermann-website` (DNS: AAAA `100::`, proxied). Zone in Cloudflare mit Nameservern george/stevie.ns.cloudflare.com (seit 19.11.2026).
+- **E-Mail:** Google Workspace (MX smtp.google.com, SPF, DKIM in Cloudflare-DNS) – diese Einträge nie löschen.
+- **Domain-Registrar:** Squarespace, gekauft über Google Workspace. Login bei Squarespace nur mit dem Workspace-Konto objektservicealdermann@objektservicealdermann.com („Mit Google fortfahren“).
+- Alte Worker im Konto (objektservice-aldermann, delicate-cake-0577, broken-violet-25fe, purple-poetry-2f11) sind nicht mit der Adresse verbunden.
+- Cloudflare-API: Token „Claude Website“ ist als Netzwerk-Geheimnis in der Claude-Umgebung hinterlegt (nie im Klartext speichern).
