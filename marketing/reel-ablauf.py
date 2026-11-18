@@ -149,7 +149,7 @@ def fade(cr,t,d):
     elif t>d-0.25: a=(t-(d-0.25))/0.25
     if a>0: cr.set_source_rgba(1,1,1,a); cr.paint()
 
-SC=[('intro',3.4),('anfrage',4.2),('besuch',4.6),('angebot',4.0),('fertig',5.0),('ende',4.5)]
+SC=[('intro',3.4),('anfrage',4.2),('besuch',4.6),('angebot',4.0),('fertig',5.6),('ende',4.5)]
 p=subprocess.Popen(['ffmpeg','-v','error','-y','-f','rawvideo','-pix_fmt','bgra','-s',f'{W}x{H}','-r',str(FPS),'-i','-',
   '-f','lavfi','-i','anullsrc=r=44100:cl=stereo','-shortest','-c:v','libx264','-crf','22','-preset','slow','-pix_fmt','yuv420p','-c:a','aac','-b:a','64k','-movflags','+faststart',OUT],stdin=subprocess.PIPE)
 surf=cairo.ImageSurface(cairo.FORMAT_ARGB32,W,H)
@@ -189,8 +189,8 @@ for name,d in SC:
                 house(cr,760,1400,0.85); hedge(cr,40,1420,380,1)
                 person(cr,330,1560,'kunde',T,arm=0.9,phone=True)
                 caption(cr,1,'Anfrage','Anruf oder WhatsApp genügt',t)
-                if t>0.6: bubble(cr,130,700,620,190,'Hallo! Können Sie\nmeine Hecke schneiden?',44,ease((t-0.6)*3))
-                if t>2.0: bubble(cr,380,950,620,150,'Klar! Ich komme vorbei 👍'.replace(' 👍',''),46,ease((t-2.0)*3),tail='right')
+                if t>0.6: bubble(cr,130,700,620,190,'Hallo! Können Sie sich\num unser Haus kümmern?',44,ease((t-0.6)*3))
+                if t>2.0: bubble(cr,380,950,620,150,'Klar! Ich komme vorbei.',46,ease((t-2.0)*3),tail='right')
             elif name=='besuch':
                 house(cr,760,1400,0.85); hedge(cr,40,1420,380,1)
                 vx=-500+ease(t/1.6)*720
@@ -230,12 +230,26 @@ for name,d in SC:
                 person(cr,500,1640,'jan',T,arm=0.4+0.5*math.sin(T*10) if t<2.2 else 0.2,s=0.95)
                 person(cr,900,1640,'kunde',T,arm=1.0 if t>2.4 else 0.2,thumb=t>2.4,s=0.95)
                 caption(cr,4,'Sauber erledigt','Zuverlässig – und wieder schön',t)
-                if t>2.6:
+                if t>2.4:
                     cr.set_source_rgb(0.98,0.75,0.10)
                     for i in range(5):
-                        a=back((t-2.6-i*0.12)*3)
-                        if a>0: star(cr,W/2-240+i*120,700,55*a)
-                    if t>3.4: bubble(cr,170,820,740,150,'Top Arbeit – gerne wieder!',48,ease((t-3.4)*3),tail='right')
+                        a=back((t-2.4-i*0.1)*3)
+                        if a>0: star(cr,W/2-240+i*120,520,52*a)
+                if t>2.9:
+                    a=ease((t-2.9)*3)
+                    cr.save(); cr.push_group()
+                    cr.set_source_rgb(1,1,1); rr(cr,170,600,740,440,30); cr.fill()
+                    cr.set_source_rgb(*INK); cr.set_line_width(5); rr(cr,170,600,740,440,30); cr.stroke()
+                    items=['Grün- & Gartenpflege','Hausmeisterdienste','Reparatur & Montage','Winterdienst']
+                    for i,it in enumerate(items):
+                        b=ease((t-3.0-i*0.25)*4)
+                        if b<=0: continue
+                        y0=680+i*95
+                        cr.set_source_rgba(*RED,b); cr.arc(240,y0,30,0,2*math.pi); cr.fill()
+                        cr.set_source_rgba(1,1,1,b); cr.set_line_width(8); cr.set_line_cap(cairo.LINE_CAP_ROUND)
+                        cr.move_to(226,y0); cr.line_to(237,y0+11); cr.line_to(256,y0-12); cr.stroke()
+                        text(cr,it,295,y0+17,48,INK,center=False,alpha=b)
+                    cr.pop_group_to_source(); cr.paint_with_alpha(a); cr.restore()
                 # Glanz
                 if t>2.2:
                     cr.set_source_rgba(1,1,1,0.9*abs(math.sin(T*4)))
