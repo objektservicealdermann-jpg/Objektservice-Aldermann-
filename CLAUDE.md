@@ -22,6 +22,7 @@ Kommunikation mit dem Inhaber immer auf Deutsch, einfach und ohne Fachjargon. Er
 - Fotos vor dem Einbau verkleinern und Metadaten (GPS) entfernen.
 
 ## Website-Aufbau
+Alle öffentlichen Dateien liegen im Ordner `public/` (nur dieser Ordner geht online).
 - `index.html` – Startseite (Hero mit Video `video/hero.mp4`, Poster `img/hero-poster.jpg`)
 - `leistungen/{gartenpflege,hausmeisterservice,reparatur-montage}/` – Leistungsseiten
 - `impressum/`, `datenschutz/`, `404.html`
@@ -29,3 +30,7 @@ Kommunikation mit dem Inhaber immer auf Deutsch, einfach und ohne Fachjargon. Er
 - Kopf- und Fußbereich sind in jeder HTML-Datei enthalten – Änderungen dort auf allen Seiten nachziehen.
 - Keine externen Schriften, Skripte, Cookies oder Tracking (Datenschutz). Neue Dienste immer in `datenschutz/` ergänzen.
 - Nach Änderungen `sitemap.xml` (lastmod) aktualisieren.
+
+## Veröffentlichung
+- Cloudflare-Projekt **aldermann-website** (Workers mit statischen Dateien, `wrangler.jsonc`), verbunden mit GitHub.
+- Was auf den Zweig **main** kommt, geht automatisch online.
