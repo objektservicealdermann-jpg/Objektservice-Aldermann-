@@ -37,7 +37,10 @@ a{color:inherit}
 
 /* Hero */
 .hero{position:relative;color:#fff;background:#111}
-.hero-bg{position:absolute;inset:0;background:url(/img/innenhof-gartenpflege.jpg) center 40%/cover}
+.hero-bg{position:absolute;inset:0;background:url(/img/hero-poster.jpg) center/cover;overflow:hidden}
+.hero-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.hero-bg:after{z-index:1}
+.hero .wrap{position:relative;z-index:2}
 .hero-bg:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.88) 0%,rgba(0,0,0,.7) 50%,rgba(0,0,0,.35) 100%)}
 .hero-inner{position:relative;padding:96px 0 88px;max-width:680px}
 .eyebrow{display:inline-block;font-weight:700;color:#ff5a60;text-transform:uppercase;letter-spacing:.12em;font-size:13px}
@@ -192,4 +195,4 @@ form.anfrage{background:#fff;border:1px solid var(--line);border-radius:var(--ra
   .callbar a+a{background:#1f7a4d}
   .callbar svg{width:18px;height:18px}
 }
-@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+@media (prefers-reduced-motion:reduce){.hero-video{display:none}html{scroll-behavior:auto}*{transition:none!important}}
