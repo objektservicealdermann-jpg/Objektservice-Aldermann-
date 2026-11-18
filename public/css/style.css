@@ -52,6 +52,14 @@ a{color:inherit}
 .trust li{display:flex;align-items:center;gap:8px}
 .trust li:before{content:"";width:8px;height:8px;background:var(--red);border-radius:50%}
 
+/* Saison-Band (z. B. Winterdienst) */
+.season-band{background:var(--ink);color:#fff;padding:18px 0;border-bottom:3px solid var(--red)}
+.season-band .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px 24px}
+.season-band p{margin:0;font-size:17px}
+.season-band p:before{content:"❄ ";color:#ff5a60}
+.season-band .btn{padding:10px 18px;font-size:15px}
+@media (max-width:640px){.season-band .btn{width:100%}}
+
 /* Sections */
 section{padding:80px 0}
 .alt{background:var(--paper)}

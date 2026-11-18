@@ -16,7 +16,7 @@ Foto: einfahrt-gartenpflege.jpg · Knopf: CALL
 
 ## 1 – Winterdienst buchen
 Status: offen
-Foto: innenhof-gartenpflege.jpg · Knopf: LEARN_MORE → https://www.objektservicealdermann.com/leistungen/winterdienst/
+Foto: winterdienst-grafik.jpg · Knopf: LEARN_MORE → https://www.objektservicealdermann.com/leistungen/winterdienst/
 
 Räumpflicht abgeben – Winterdienst für Ihr Objekt.
 
