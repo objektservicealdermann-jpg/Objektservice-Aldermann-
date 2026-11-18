@@ -1,6 +1,6 @@
 # Google-Beiträge – Plan
 
-Freigegeben vom Inhaber am 19.11.2026. Ein Beitrag pro Woche (dienstags), veröffentlicht über Windsor.ai
+Freigegeben vom Inhaber am 19.11.2026. Stil: persönlich, Ich-Form, ohne Emojis (siehe CLAUDE.md). Ein Beitrag pro Woche (dienstags), veröffentlicht über Windsor.ai
 (Connector `google_my_business`, Account `locations/8157084434385023314`, Aktion `create_local_post`, `language_code: de`).
 Nach dem Veröffentlichen hier den Status auf „veröffentlicht am …“ setzen.
 
@@ -18,15 +18,9 @@ Foto: einfahrt-gartenpflege.jpg · Knopf: CALL
 Status: offen
 Foto: winterdienst-grafik.jpg · Knopf: LEARN_MORE → https://www.objektservicealdermann.com/leistungen/winterdienst/
 
-Räumpflicht abgeben – Winterdienst für Ihr Objekt.
+Bald ist es wieder so weit: Der erste Schnee kommt meistens dann, wenn man am wenigsten damit rechnet. Als Eigentümer oder Hausverwaltung sind Sie für geräumte und gestreute Wege verantwortlich. Diese Arbeit nehme ich Ihnen gern ab. Ich räume und streue Gehwege, Zugänge und Zufahrten, zu einem festen Preis für die ganze Saison. Ich habe noch ein paar Plätze in meiner Tour frei, melden Sie sich gern bei mir.
 
-Als Eigentümer oder Hausverwaltung müssen Sie bei Schnee und Glätte Gehwege und Zugänge räumen und streuen. Wir übernehmen das für Sie:
-• Schneeräumen auf Gehwegen, Zugängen und Zufahrten
-• Streuen bei Glätte
-• Kontrolle bei Frost und angesagtem Schnee
-• Feste Saisonpauschale – planbare Kosten
-
-Für Wohnanlagen, Mehrfamilienhäuser und Gewerbe in Jülich, Düren, Aachen, Köln, Düsseldorf und Umgebung. Jetzt anfragen, solange noch Plätze in der Tour frei sind.
+Jan-Luca, 0176 23751407
 
 ---
 
@@ -34,15 +28,9 @@ Für Wohnanlagen, Mehrfamilienhäuser und Gewerbe in Jülich, Düren, Aachen, K�
 Status: offen
 Foto: innenausbau-tuerrahmen.jpg · Knopf: LEARN_MORE → https://www.objektservicealdermann.com/leistungen/reparatur-montage/
 
-Handwerk vom gelernten Schreiner.
+Ich bin gelernter Schreiner, und das merkt man bei vielen kleinen Arbeiten. Eine Tür, die klemmt, ein Scharnier, das ausgeleiert ist, ein neuer Schrank, der aufgebaut werden muss, oder eine Öffnung, die geschlossen werden soll: So etwas erledige ich sauber und passgenau. Am einfachsten schicken Sie mir ein Foto per WhatsApp, dann kann ich direkt sagen, was zu tun ist.
 
-Klemmende Tür, lockeres Scharnier, neue Möbel oder ein Durchgang, der geschlossen werden soll: Als gelernter Schreiner erledige ich Reparaturen und Montagen sauber und maßgenau.
-• Möbel- und Küchenmontage
-• Türen, Beschläge, Holzarbeiten
-• Innenausbau und Unterkonstruktionen
-• Mülltonnenboxen, Tore, Sichtschutz
-
-Foto per WhatsApp an 0176 23751407 schicken – dann kann ich den Aufwand direkt einschätzen.
+Jan-Luca, 0176 23751407
 
 ---
 
@@ -50,11 +38,9 @@ Foto per WhatsApp an 0176 23751407 schicken – dann kann ich den Aufwand direkt
 Status: offen
 Foto: balkon-nachher.jpg · Knopf: CALL
 
-Vorher – nachher: Balkon-Sichtschutz erneuert.
+Vorher, nachher: Bei diesem Balkon war der alte Sichtschutz aus Wellplatten verwittert und brüchig. Ich habe ihn abgebaut und durch neue, pflegeleichte Platten ersetzt, an einem Tag. Wenn bei Ihnen auch etwas in die Jahre gekommen ist, ob Sichtschutz, Zaun oder Tor, rufen Sie mich gern an. Die Besichtigung kostet nichts.
 
-Die alten Wellplatten waren verwittert und brüchig. Wir haben sie demontiert und durch neue, pflegeleichte Platten ersetzt – sauber verschraubt und an einem Tag erledigt.
-
-Auch Ihr Balkon, Zaun oder Sichtschutz braucht eine Auffrischung? Objektservice Aldermann aus Jülich – für Eigentümer, Vermieter und Hausverwaltungen. Kostenlose Besichtigung: 0176 23751407
+Jan-Luca, 0176 23751407
 
 ---
 
@@ -62,13 +48,6 @@ Auch Ihr Balkon, Zaun oder Sichtschutz braucht eine Auffrischung? Objektservice 
 Status: offen
 Foto: muelltonnenbox-montage.jpg · Knopf: LEARN_MORE → https://www.objektservicealdermann.com/leistungen/hausmeisterservice/
 
-Ein Ansprechpartner für Ihre Objekte.
+Was sich Hausverwaltungen von einem Hausmeister am meisten wünschen? Dass er einfach zuverlässig da ist. Genau so arbeite ich: Ich mache regelmäßige Kontrollgänge, kümmere mich um Mülltonnen, Außenanlagen und Winterdienst und erledige kleine Reparaturen direkt vor Ort, statt sie nur zu melden. Alles zu einer festen Monatspauschale. Ich betreue Objekte in Jülich, Düren, Aachen, Köln, Düsseldorf und Umgebung.
 
-Hausverwaltungen und Eigentümer suchen vor allem eines: jemanden, der zuverlässig da ist. Unser Hausmeisterservice umfasst:
-• Regelmäßige Kontrollgänge und Mängelmeldung
-• Mülltonnenservice und Ordnung am Objekt
-• Treppenhaus- und Außenreinigung
-• Grünpflege und Winterdienst
-• Kleinreparaturen direkt vor Ort
-
-Alles zur festen Monatspauschale. Wir betreuen Objekte in Jülich, Düren, Aachen, Köln, Düsseldorf und Umgebung.
+Jan-Luca, 0176 23751407
