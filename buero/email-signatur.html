@@ -1,18 +1,29 @@
+<style>
+@media (prefers-color-scheme: dark){
+  .oa-logo-light{display:none!important;max-height:0!important}
+  .oa-logo-dark{display:block!important;max-height:none!important}
+  .oa-text{color:#e6e6e6!important}
+  .oa-mute{color:#b5b8bd!important}
+}
+</style>
 <table cellpadding="0" cellspacing="0" border="0" style="font-family:Arial,Helvetica,sans-serif;border-collapse:collapse">
   <tr>
     <td valign="top" style="vertical-align:top;height:66px;padding:0 12px 0 0;white-space:nowrap">
       <div style="font-size:16px;line-height:22px;font-weight:bold;color:#d71920">Jan-Luca Aldermann</div>
-      <div style="font-size:13px;line-height:22px;color:#6b6f75">Inhaber</div>
-      <div style="font-size:13px;line-height:22px;color:#6b6f75">Hausmeisterservice</div>
+      <div class="oa-mute" style="font-size:13px;line-height:22px;color:#5c6066">Inhaber</div>
+      <div class="oa-mute" style="font-size:13px;line-height:22px;color:#5c6066">Hausmeisterservice</div>
     </td>
-    <td valign="top" style="vertical-align:top;padding:0 0 0 12px;border-left:3px solid #d71920"><img src="LOGO" width="162" height="66" alt="Objektservice Aldermann" style="display:block;width:162px;height:66px;border:0"></td>
+    <td valign="top" style="vertical-align:top;padding:0 0 0 12px;border-left:3px solid #d71920">
+      <img class="oa-logo-light" src="LOGO_LIGHT" width="154" height="66" alt="Objektservice Aldermann" style="display:block;width:154px;height:66px;border:0">
+      <img class="oa-logo-dark" src="LOGO_DARK" width="154" height="66" alt="Objektservice Aldermann" style="display:none;width:154px;height:66px;border:0;max-height:0;mso-hide:all">
+    </td>
   </tr>
   <tr>
     <td colspan="2" style="padding:12px 0 0 0;font-size:13px;line-height:20px">
-      <a href="tel:+4917623751407" style="color:#6b6f75;text-decoration:none">Tel. 0176 23751407</a><br>
-      <a href="mailto:objektservicealdermann@gmail.com" style="color:#6b6f75;text-decoration:none">objektservicealdermann@gmail.com</a><br>
+      <a class="oa-text" href="tel:+4917623751407" style="color:#141414;text-decoration:none">Tel. 0176 23751407</a><br>
+      <a class="oa-text" href="mailto:objektservicealdermann@gmail.com" style="color:#141414;text-decoration:none">objektservicealdermann@gmail.com</a><br>
       <a href="https://www.objektservicealdermann.com" style="color:#d71920;text-decoration:none;font-weight:bold">www.objektservicealdermann.com</a>
     </td>
   </tr>
-  <tr><td colspan="2" style="padding:8px 0 0 0;font-size:11px;line-height:16px;color:#8a8e94">Objektservice Aldermann · Bretzelbäckerstraße 3 · 52428 Jülich<br>Köln · Düsseldorf · Düren · Aachen</td></tr>
+  <tr><td class="oa-mute" colspan="2" style="padding:8px 0 0 0;font-size:11px;line-height:16px;color:#5c6066">Objektservice Aldermann · Bretzelbäckerstraße 3 · 52428 Jülich<br>Köln · Düsseldorf · Düren · Aachen</td></tr>
 </table>
