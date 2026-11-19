@@ -53,6 +53,19 @@ Regionale Plattform, die Auftraggeber (Privatleute, Hausverwaltungen, Firmen) mi
 - Danach naheliegend: Österreich und Schweiz (gleiche Sprache), Niederlande/Belgien (Grenznähe zu Aachen).
 - Von Anfang an technisch vorbereiten: mehrere Sprachen, Währungen, länderspezifische Steuern, Rechtstexte und Verifizierungsunterlagen pro Land.
 
+## Name (Ideen, 19.11.2026)
+Anforderung: international verständlich, kurz, als Marke schützbar; Website/App von Anfang an mehrsprachig bauen.
+- **Fairfix** – fair + reparieren, in vielen Sprachen verständlich
+- **Werkly** – kurz, modern, „Werk“ als Handwerks-Bezug
+- **Handfair** – Handwerk + fair, Kernbotschaft im Namen
+- **Faircraft** – englisch, international
+- **Fixora** – Kunstwort, gut als Marke schützbar
+- **Meisterly** – „Meister“ ist auch international bekannt
+Vor der Entscheidung prüfen: Markenregister (DPMA/EUIPO), Domains (.com, .de, .eu), App-Store-Namen, Social-Media-Namen.
+
+## Technik von Anfang an
+Mehrsprachigkeit (Texte nie fest im Code), Währungen, Zeitzonen, länderspezifische Steuern/Rechtstexte/Verifizierungsunterlagen, Server in der EU (DSGVO), App und Website aus einem gemeinsamen Kern.
+
 ## Offene Fragen für später (von Claude notiert)
 - Höhe der Erfolgsgebühr (fester Betrag oder % vom Auftragswert)? Wie wird die Annahme nachgewiesen (Bestätigung durch beide Seiten in der Plattform)?
 - Was passiert, wenn ein Handwerker in 2 Stunden nicht antwortet oder ablehnt? (automatisch an den nächsten)
