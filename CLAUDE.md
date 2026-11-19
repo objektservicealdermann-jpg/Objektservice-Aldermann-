@@ -19,6 +19,7 @@ Kommunikation mit dem Inhaber immer auf Deutsch, einfach und ohne Fachjargon. Er
 - Bestandskunden (z. B. Hotels) **nicht** als Referenz auf der Website oder in Werbung nennen.
 - Keine E-Mails ohne ausdrückliche Freigabe versenden. Vor jeder E-Mail IMMER fragen: „Als Entwurf ablegen oder direkt senden?“ (Wunsch des Inhabers, 19.11.2026). Ohne Antwort: nur als Entwurf ablegen.
 - JEDE E-Mail (Entwurf oder Versand) bekommt IMMER die freigegebene HTML-Signatur aus `buero/email-signatur.html` mit beiden Logos als Inline-Anhang (siehe Abschnitt „E-Mail-Signatur“). Ohne Signatur keine E-Mail.
+- Anrede in E-Mails, Briefen und Angeboten an Firmen IMMER: „Sehr geehrtes Team der [Firmenname],“ bzw. „Sehr geehrtes Team von [Firmenname],“ – keine Einzelpersonen, kein „Damen und Herren“ (Wunsch des Inhabers, 19.11.2026).
 - Keine unaufgeforderten Werbe-E-Mails an Firmen (UWG § 7); Akquise per Brief, Telefon, LinkedIn oder persönlich.
 - Fotos vor dem Einbau verkleinern und Metadaten (GPS) entfernen.
 
