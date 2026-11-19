@@ -18,6 +18,7 @@ Kommunikation mit dem Inhaber immer auf Deutsch, einfach und ohne Fachjargon. Er
 ## Wichtige Regeln
 - Bestandskunden (z. B. Hotels) **nicht** als Referenz auf der Website oder in Werbung nennen.
 - Keine E-Mails ohne ausdrückliche Freigabe versenden – immer als Entwurf vorbereiten.
+- JEDE E-Mail (Entwurf oder Versand) bekommt IMMER die freigegebene HTML-Signatur aus `buero/email-signatur.html` mit beiden Logos als Inline-Anhang (siehe Abschnitt „E-Mail-Signatur“). Ohne Signatur keine E-Mail.
 - Keine unaufgeforderten Werbe-E-Mails an Firmen (UWG § 7); Akquise per Brief, Telefon, LinkedIn oder persönlich.
 - Fotos vor dem Einbau verkleinern und Metadaten (GPS) entfernen.
 
