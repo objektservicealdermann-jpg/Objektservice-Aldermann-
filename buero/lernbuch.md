@@ -18,3 +18,4 @@ Format: `JJJJ-MM-TT · Helfer · Erkenntnis`
 2026-11-19 · Scout · Stellenanzeigen von Hausverwaltungen für Hausmeister (mit Garten/Winterdienst) sind gute Akquise-Signale: dort besteht Bedarf – externen Service anbieten.
 
 - 19.11.2026: Rahmenvertrag-Vorschlag für Stammkunden aus den echten Rechnungsstunden ableiten (Durchschnitt pro Monat), zwei Pakete anbieten, Absage-Regel (7 Tage verschiebbar, kurzfristig = erbracht) gegen Arbeitsausfall.
+- 19.11.2026: Gmail-App (iPhone) ignoriert display:none beim Bearbeiten von Entwürfen → beide Signatur-Logos sichtbar. Lösung: in Gmail-Entwürfen nur ein Logo (hell, mit weißer Kontur).

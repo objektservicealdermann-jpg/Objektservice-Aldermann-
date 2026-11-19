@@ -66,7 +66,7 @@ Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: al
 
 ## E-Mail-Signatur
 - Vorlage: `buero/email-signatur.html` – nebeneinander: Name/Inhaber/Objektservice links, roter Strich genau so hoch wie das Logo (66 px), Logo rechts OHNE Hintergrund, Kontaktdaten darunter.
-- Zwei Logos: `LOGO_LIGHT` = `public/img/signatur-logo-hell.png` (dunkle Schrift, feine weiße Kontur – Standard, auch für Gmail), `LOGO_DARK` = `public/img/signatur-logo-dunkel.png` (weiße Schrift, wird per Dark-Mode-CSS in Apple Mail/Outlook eingeblendet). In Gmail-Entwürfen: `cid:att0` (hell) und `cid:att1` (dunkel) als Inline-Anhänge.
+- Zwei Logos: `LOGO_LIGHT` = `public/img/signatur-logo-hell.png` (dunkle Schrift, feine weiße Kontur – Standard, auch für Gmail), `LOGO_DARK` = `public/img/signatur-logo-dunkel.png` (weiße Schrift, wird per Dark-Mode-CSS in Apple Mail/Outlook eingeblendet). In Gmail-Entwürfen NUR das helle Logo als `cid:att0` (ohne Dark-Mode-CSS, ohne zweites Logo) – die Gmail-App zeigt beim Bearbeiten sonst beide Logos untereinander an (19.11.2026).
 - Alle E-Mail-Entwürfe (HTML) mit dieser Signatur, Schrift Arial 14px. In E-Mails darf der volle Name stehen.
 - Eigene E-Mail-Adresse (z. B. info@objektservicealdermann.com) über das bereits bezahlte Google Workspace einrichten; Gmail-Adresse weiterleiten; ggf. Tarif Business Starter. Erinnerung am 26.11.2026 geplant. Danach Website, Signatur, Impressum, Google-Profil, Instagram umstellen.
 - Übersichtsseite des Büro-Teams: https://claude.ai/artifact/W38Nw8br4WR5kmitDEt6uW (Vorlage buero/buero-team-vorlage.html; bei neuen/geänderten Helfern aktualisieren).
