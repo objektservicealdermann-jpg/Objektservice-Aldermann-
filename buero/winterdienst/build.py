@@ -24,19 +24,19 @@ ul{{margin:0 0 2mm;padding-left:5mm;line-height:1.5}}
 <div class="in">
 <h2>Wir räumen und streuen – Sie bleiben im Warmen</h2>
 <p>Als Eigentümer, Vermieter oder Gewerbetreibender sind Sie für sichere Wege vor Ihrem Haus verantwortlich. Diese Arbeit nehmen wir Ihnen ab, zuverlässig und zu einem festen Preis pro Einsatz.</p>
-<ul><li>Räumen und Streuen des Gehwegs vor dem Grundstück und des Zugangs bis zur Eingangstür</li>
+<ul><li>Räumen und Streuen des Weges von der Eingangstür bis zur Straße, inklusive Gehweg vor dem Haus (normale Hausbreite)</li>
 <li>Einsatz bei Schnee und Glätte zu den Zeiten, die die Satzung Ihrer Stadt vorschreibt, bei anhaltendem Schneefall auch mehrmals am Tag</li>
 <li>Kein Grundpreis, keine Bereitschaftspauschale: Sie zahlen nur, wenn wir wirklich im Einsatz waren</li>
 <li>Eine Rechnung zum Monatsende mit Datum jedes Einsatzes</li></ul>
-<div class="prices"><div class="pr"><b>Wohnhaus</b><div class="big">30,00 €</div><small>pro Einsatz, netto zzgl. 19 % USt. (35,70 € brutto)<br>Gehweg und Zugang bis zur Haustür</small></div>
-<div class="pr"><b>Gewerbe</b><div class="big">60,00 €</div><small>pro Einsatz, netto zzgl. 19 % USt.<br>Gehweg, Eingang und Kundenzugang</small></div></div>
-<p style="font-size:8.6pt;color:#555">Größere Flächen wie Parkplätze, Zufahrten oder Höfe bieten wir nach kurzer Besichtigung gesondert an.</p>
+<div class="prices"><div class="pr"><b>Wohnhaus</b><div class="big">30,00 €</div><small>pro Einsatz, netto zzgl. 19 % USt. (35,70 € brutto)<br>Weg von der Haustür bis zur Straße</small></div>
+<div class="pr"><b>Gewerbe</b><div class="big">60,00 €</div><small>pro Einsatz, netto zzgl. 19 % USt.<br>Weg vom Eingang bis zur Straße</small></div></div>
+<p style="font-size:8.6pt;color:#555"><b>Nicht im Festpreis enthalten:</b> größere Flächen wie Parkplätze, Zufahrten, Höfe, lange Gehwege oder Eckgrundstücke. Diese bieten wir nach kurzer Besichtigung mit eigenem Preis an.</p>
 </div>
 <div class="form"><h2>Auftrag Winterdienst</h2>
 <div class="row"><div class="f"><span>Name / Firma</span></div><div class="f"><span>Telefon</span></div></div>
 <div class="row"><div class="f"><span>Rechnungsanschrift</span></div></div>
 <div class="row"><div class="f"><span>Objekt (falls abweichend)</span></div><div class="f" style="flex:.6"><span>E-Mail</span></div></div>
-<div class="ck"><i></i>Wohnhaus – 30,00 € netto pro Einsatz &nbsp;&nbsp;&nbsp; <i></i>Gewerbe – 60,00 € netto pro Einsatz</div>
+<div class="ck"><i></i>Wohnhaus – 30,00 € netto pro Einsatz &nbsp;&nbsp;&nbsp; <i></i>Gewerbe – 60,00 € netto pro Einsatz<br><span style="font-size:8pt;color:#555">jeweils Weg von der Eingangstür bis zur Straße</span></div>
 <div class="row"><div class="f"><span>Besonderheiten (z. B. Treppe, Rampe, zweiter Eingang)</span></div></div>
 <div class="small">Leistungszeitraum 01.12.2026 bis 31.03.2027, danach endet der Auftrag automatisch. Abrechnung monatlich nach tatsächlichen Einsätzen, zahlbar innerhalb von 7 Tagen per Überweisung. Für die Dauer des Auftrags übernimmt Objektservice Aldermann das Räumen und Streuen der oben genannten Flächen. Ihre Angaben verwenden wir nur für diesen Auftrag und die Rechnung (Datenschutzhinweise: www.objektservicealdermann.com/datenschutz).</div>
 <div class="row" style="margin-top:6mm"><div class="f"><span>Ort, Datum</span></div><div class="f"><span>Unterschrift Auftraggeber</span></div><div class="f"><span>Unterschrift Objektservice Aldermann</span></div></div>

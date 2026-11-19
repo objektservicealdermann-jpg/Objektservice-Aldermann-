@@ -13,8 +13,9 @@
 - **„Was kostet das?“** → Preis nennen (siehe unten), Auftragsblatt zeigen.
 
 ## Preise (pro Einsatz, netto zzgl. 19 % USt.)
-- Wohnhaus, Gehweg bis Haustür: **30 €** (35,70 € brutto)
-- Gewerbe: **60 €**
+- Wohnhaus, Weg von der Haustür bis zur Straße: **30 €** (35,70 € brutto)
+- Gewerbe, Weg vom Eingang bis zur Straße: **60 €**
+- **Nur der einfache Weg!** Lange Gehwege, Eckgrundstücke, Parkplätze, Höfe, Zufahrten: nicht zum Festpreis, sondern ansehen und eigenen Preis machen.
 - Größere Flächen (Parkplatz, Hof, Zufahrt): „Schaue ich mir kurz an und schicke Ihnen ein Angebot.“
 
 ## Gute Argumente
