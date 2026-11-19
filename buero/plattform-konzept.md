@@ -18,6 +18,19 @@ Regionale Plattform, die Auftraggeber (Privatleute, Hausverwaltungen, Firmen) mi
 - **Verschiedene Dienstleistungen/Gewerke** auf der Plattform.
 - **Cooles Design**, sehr einfach zu bedienen – für Handwerker UND Auftraggeber.
 
+## Ergänzung (19.11.2026, Auto)
+- Antwortet ein Handwerker nicht und wurden noch keine Kontaktdaten freigegeben, zahlt er NICHTS.
+- Ziel: Plattform muss für Handwerker deutlich attraktiver sein als MyHammer (dort zu hohe Kosten für Aufträge, die man gar nicht bekommt).
+- Handwerker sollen zufrieden sein und langfristig bleiben; Plattform soll ihnen helfen, einen Kundenstamm aufzubauen.
+- Trotzdem soll die Plattform gut Geld verdienen – Geschäftsmodell muss beides verbinden.
+
+## Ideen für das Geschäftsmodell (Vorschläge von Claude, noch nicht entschieden)
+- Erfolgsgebühr nur bei angenommenem Preis, z. B. kleiner Prozentsatz vom Auftragswert mit Obergrenze (fair bei großen Aufträgen).
+- Optionales Pro-Abo für Handwerker: niedrigere Erfolgsgebühr, hervorgehobenes Profil, Werkzeuge (Angebote/Rechnungen schreiben, Terminkalender, Kundenkartei).
+- Stammkunden-Bonus: Folgeaufträge desselben Kunden über die Plattform günstiger – hält Handwerker UND Kunden auf der Plattform.
+- Profi-Zugang für Hausverwaltungen/Firmen (mehrere Objekte verwalten, feste Dienstleister, Sammelrechnung) gegen Monatsgebühr.
+- Verifizierung und Basisprofil kostenlos – die Hürde zum Mitmachen klein halten.
+
 ## Offene Fragen für später (von Claude notiert)
 - Höhe der Erfolgsgebühr (fester Betrag oder % vom Auftragswert)? Wie wird die Annahme nachgewiesen (Bestätigung durch beide Seiten in der Plattform)?
 - Was passiert, wenn ein Handwerker in 2 Stunden nicht antwortet oder ablehnt? (automatisch an den nächsten)
