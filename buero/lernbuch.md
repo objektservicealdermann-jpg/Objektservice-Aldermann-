@@ -15,3 +15,4 @@ Format: `JJJJ-MM-TT · Helfer · Erkenntnis`
 2026-11-19 · Inhaber · Kein Werbebudget gewünscht. Hausverwaltungen immer persönlich anschreiben: „Sehr geehrtes Team von <Name der Hausverwaltung>“.
 2026-11-19 · Postfach · Erster Lauf: Inhaber fragt auch selbst bei größeren Hausmeister-/Facility-Firmen nach Subunternehmer-Zusammenarbeit an – Antworten und Abwesenheitsnotizen nachhalten und an Rückmeldung erinnern. Viel Rauschen durch Job-Mails (HeyJobs, LinkedIn-Jobs).
 2026-11-19 · Inhaber · Vor Akquise-Briefen immer prüfen, ob die Firma schon Kunde/Kontakt ist (Angebote/Rechnungen in Gmail bzw. Billdu). Inhaber erstellt Angebote/Rechnungen bisher mit Billdu (Nummernkreis Angebote AGB-0xxx).
+2026-11-19 · Scout · Stellenanzeigen von Hausverwaltungen für Hausmeister (mit Garten/Winterdienst) sind gute Akquise-Signale: dort besteht Bedarf – externen Service anbieten.

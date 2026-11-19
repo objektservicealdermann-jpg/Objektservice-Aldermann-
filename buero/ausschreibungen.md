@@ -23,3 +23,7 @@
 - Ablauf: einmal für eine Kategorie qualifizieren, danach Einladung zu Miniwettbewerben für konkrete Aufträge. Beitritt bei DBS i. d. R. während der gesamten Laufzeit möglich.
 - Plattform laut Suchergebnis: s2c.mercell.com (Buyer 67139). Teilnahmebedingungen noch unbekannt (evtl. Zuverlässigkeitsüberprüfung wegen Nuklearanlage).
 - Status: Inhaber informieren, Registrierung nötig.
+
+## Scout 19.11.2026
+- **Spur (Akquise):** Hausverwaltungen/Firmen in Aachen suchen per Stellenanzeige Hausmeister mit Garten- und Winterdienst (z. B. „Erste Hausverwaltung“ – Hausmeister/Haustechniker; FM-Allservice – Teilzeit-Hausmeister Treppenhaus/Garten). Idee: statt Festanstellung den externen Objektservice anbieten (Anruf oder Brief, keine Werbe-Mail). Quelle: Stellenportale (Arbeitsagentur/StepStone).
+- Geprüft, nicht passend: mags Mönchengladbach „RV Baumpflege 2027“ (Frist 17.12.2026, Spezial-Baumpflege mit Fachnachweisen); „Winterdienst 2026-2027“ Stolberg (Los-ID 3180170, vermutlich abgelaufen); Friedhofspflege MG (Angaben veraltet).
