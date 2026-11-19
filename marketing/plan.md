@@ -12,7 +12,7 @@ Grenzen: keine Spam-Mails (UWG §7), keine gekauften/gefälschten Bewertungen, k
 
 ## Nächste 30 Tage
 1. Bewertungen: WhatsApp-Vorlage + QR-Code an zufriedene Kunden (Ziel: 6 → 15)
-2. Hausverwaltungen direkt ansprechen: 16 persönliche Briefe (Jülich, Düren, Aachen) am 19.11.2026 erstellt – Anrede „Sehr geehrtes Team von <Name>“, Brief + Leistungsübersicht. Nächster Schritt: Inhaber druckt und verschickt, ca. 1 Woche später Nachfass-Anruf. Weitere Städte (Köln, Düsseldorf, Heinsberg, Mönchengladbach) folgen.
+2. Hausverwaltungen direkt ansprechen: 16 persönliche Briefe (Jülich, Düren, Aachen) am 19.11.2026 erstellt – Anrede „Sehr geehrtes Team von <Name>“, Brief + Leistungsübersicht. Nächster Schritt: Inhaber druckt und verschickt, ca. 1 Woche später Nachfass-Anruf. Runde 2 (18 Briefe: Mönchengladbach, Kreis Heinsberg, Eschweiler, Herzogenrath, Köln, Neuss, Düsseldorf) ebenfalls erstellt. Liste: buero/hausverwaltungen.json (öffentliche Firmenangaben aus Branchenverzeichnissen).
 3. Google-Anzeigen: vom Inhaber vorerst abgelehnt (kein Werbebudget, Stand 19.11.2026).
 4. Kostenlose Einträge: Kleinanzeigen-Dienstleistungsanzeige, nebenan.de, Gelbe Seiten, Das Örtliche, 11880, Apple Maps, Bing Places
 5. Lokale Facebook-Gruppen (Jülich/Düren) – Profil/Seite + gelegentliche hilfreiche Beiträge

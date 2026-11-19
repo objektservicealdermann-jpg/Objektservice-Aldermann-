@@ -1,0 +1,342 @@
+[
+ {
+  "name": "Schröder Immobilien & Hausverwaltungen oHG",
+  "str": "Bahnhofstraße 11",
+  "ort": "52428 Jülich",
+  "stadt": "Jülich",
+  "tel": "02461 4562",
+  "hinweis": "",
+  "nr": 1,
+  "runde": 1
+ },
+ {
+  "name": "Bruntsch Hausverwaltung",
+  "str": "Baierstraße 4",
+  "ort": "52428 Jülich",
+  "stadt": "Jülich",
+  "tel": "02461 9956799",
+  "hinweis": "Adresse prüfen (evtl. Mühlenstraße 6 b)",
+  "nr": 2,
+  "runde": 1
+ },
+ {
+  "name": "Schagen Hausverwaltungen",
+  "str": "Düsseldorfer Straße 14",
+  "ort": "52428 Jülich",
+  "stadt": "Jülich",
+  "tel": "",
+  "hinweis": "",
+  "nr": 3,
+  "runde": 1
+ },
+ {
+  "name": "DeineStadt Hausverwaltung",
+  "str": "Philippstraße 27",
+  "ort": "52349 Düren",
+  "stadt": "Düren",
+  "tel": "0800 9556677",
+  "hinweis": "",
+  "nr": 4,
+  "runde": 1
+ },
+ {
+  "name": "D&G Immobilienverwaltung GmbH",
+  "str": "Wörthstraße 42",
+  "ort": "52351 Düren",
+  "stadt": "Düren",
+  "tel": "",
+  "hinweis": "",
+  "nr": 5,
+  "runde": 1
+ },
+ {
+  "name": "HG Hausverwaltung",
+  "str": "Beythaler Straße 19",
+  "ort": "52355 Düren",
+  "stadt": "Düren",
+  "tel": "01523 3669198",
+  "hinweis": "",
+  "nr": 6,
+  "runde": 1
+ },
+ {
+  "name": "L. Undorf Immobilien-Hausverwaltung e.K.",
+  "str": "Monschauer Straße 49",
+  "ort": "52355 Düren",
+  "stadt": "Düren",
+  "tel": "02421 67603",
+  "hinweis": "",
+  "nr": 7,
+  "runde": 1
+ },
+ {
+  "name": "ProCasa Immobilien GmbH",
+  "str": "Mariaweilerstraße 83a–85",
+  "ort": "52349 Düren",
+  "stadt": "Düren",
+  "tel": "02421 977590",
+  "hinweis": "",
+  "nr": 8,
+  "runde": 1
+ },
+ {
+  "name": "BAUart Immobilien Management",
+  "str": "Binsfelder Straße 17",
+  "ort": "52351 Düren",
+  "stadt": "Düren",
+  "tel": "02421 9945994",
+  "hinweis": "älterer Eintrag – Adresse prüfen",
+  "nr": 9,
+  "runde": 1
+ },
+ {
+  "name": "Quartierwerk Objektverwaltung GmbH",
+  "str": "Ludwigsallee 57",
+  "ort": "52062 Aachen",
+  "stadt": "Aachen",
+  "tel": "0241 91389930",
+  "hinweis": "",
+  "nr": 10,
+  "runde": 1
+ },
+ {
+  "name": "Rhenetia GmbH",
+  "str": "Richardstraße 20",
+  "ort": "52062 Aachen",
+  "stadt": "Aachen",
+  "tel": "0241 98092470",
+  "hinweis": "",
+  "nr": 11,
+  "runde": 1
+ },
+ {
+  "name": "Forst, Römer & Partner Haus- und Wohnungsverwaltungsgesellschaft mbH",
+  "str": "Dresdener Straße 8",
+  "ort": "52068 Aachen",
+  "stadt": "Aachen",
+  "tel": "0241 505022",
+  "hinweis": "",
+  "nr": 12,
+  "runde": 1
+ },
+ {
+  "name": "ABS Hausverwaltung GmbH",
+  "str": "Heidestraße 21",
+  "ort": "52078 Aachen",
+  "stadt": "Aachen",
+  "tel": "0241 562300",
+  "hinweis": "älterer Eintrag – Adresse prüfen",
+  "nr": 13,
+  "runde": 1
+ },
+ {
+  "name": "Immobilienverwaltung Pohen",
+  "str": "Gregorstraße 13",
+  "ort": "52066 Aachen",
+  "stadt": "Aachen",
+  "tel": "0241 706578",
+  "hinweis": "",
+  "nr": 14,
+  "runde": 1
+ },
+ {
+  "name": "M.U.H. GmbH",
+  "str": "Oppenhoffallee 143",
+  "ort": "52066 Aachen",
+  "stadt": "Aachen",
+  "tel": "0241 46861552",
+  "hinweis": "",
+  "nr": 15,
+  "runde": 1
+ },
+ {
+  "name": "AHGEB Gebäudeverwaltung",
+  "str": "Jülicher Straße 210",
+  "ort": "52070 Aachen",
+  "stadt": "Aachen",
+  "tel": "0241 59520",
+  "hinweis": "",
+  "nr": 16,
+  "runde": 1
+ },
+ {
+  "name": "Hausverwaltung Cultus",
+  "str": "Hardenbergstraße 31",
+  "ort": "41236 Mönchengladbach",
+  "stadt": "Mönchengladbach",
+  "tel": "02166 4525897",
+  "hinweis": "",
+  "nr": 17,
+  "runde": 2
+ },
+ {
+  "name": "Hausverwaltung Michael Witt",
+  "str": "Nordstraße 21",
+  "ort": "41236 Mönchengladbach",
+  "stadt": "Mönchengladbach",
+  "tel": "02166 924436",
+  "hinweis": "",
+  "nr": 18,
+  "runde": 2
+ },
+ {
+  "name": "Hausverwaltung Kemper",
+  "str": "Regentenstraße 240",
+  "ort": "41061 Mönchengladbach",
+  "stadt": "Mönchengladbach",
+  "tel": "02161 910427",
+  "hinweis": "",
+  "nr": 19,
+  "runde": 2
+ },
+ {
+  "name": "Enger & Dittrich Immobilien GmbH",
+  "str": "Hohenzollernstraße 181",
+  "ort": "41063 Mönchengladbach",
+  "stadt": "Mönchengladbach",
+  "tel": "02161 492690",
+  "hinweis": "",
+  "nr": 20,
+  "runde": 2
+ },
+ {
+  "name": "CUBIQ Hausverwaltung",
+  "str": "Schwalmstraße 204",
+  "ort": "41238 Mönchengladbach",
+  "stadt": "Mönchengladbach",
+  "tel": "02161 6533180",
+  "hinweis": "",
+  "nr": 21,
+  "runde": 2
+ },
+ {
+  "name": "Centra Treuhand- und Anlagegesellschaft mbH",
+  "str": "Kreuzstraße 20",
+  "ort": "52511 Geilenkirchen",
+  "stadt": "im Kreis Heinsberg",
+  "tel": "02451 68500",
+  "hinweis": "",
+  "nr": 22,
+  "runde": 2
+ },
+ {
+  "name": "Reiners Immobilien",
+  "str": "Valkenburger Straße 7",
+  "ort": "52525 Heinsberg",
+  "stadt": "Heinsberg",
+  "tel": "02452 9242460",
+  "hinweis": "",
+  "nr": 23,
+  "runde": 2
+ },
+ {
+  "name": "Hausverwaltung Müller GmbH",
+  "str": "Gewerbestraße Süd 30",
+  "ort": "41812 Erkelenz",
+  "stadt": "Erkelenz",
+  "tel": "",
+  "hinweis": "",
+  "nr": 24,
+  "runde": 2
+ },
+ {
+  "name": "DOMINI Hausverwaltungen GmbH",
+  "str": "Drimbornshof 1",
+  "ort": "52249 Eschweiler",
+  "stadt": "Eschweiler",
+  "tel": "02403 830590",
+  "hinweis": "",
+  "nr": 25,
+  "runde": 2
+ },
+ {
+  "name": "Förster Immobilien",
+  "str": "Dammstraße 21",
+  "ort": "52134 Herzogenrath",
+  "stadt": "Herzogenrath",
+  "tel": "",
+  "hinweis": "",
+  "nr": 26,
+  "runde": 2
+ },
+ {
+  "name": "GZ Immobilien",
+  "str": "Sülzgürtel 34",
+  "ort": "50937 Köln",
+  "stadt": "Köln",
+  "tel": "0221 4927299",
+  "hinweis": "",
+  "nr": 27,
+  "runde": 2
+ },
+ {
+  "name": "Becker Immobilienverwaltung",
+  "str": "Hohenstaufenring 62",
+  "ort": "50674 Köln",
+  "stadt": "Köln",
+  "tel": "0221 640001020",
+  "hinweis": "",
+  "nr": 28,
+  "runde": 2
+ },
+ {
+  "name": "Dr.-Ing. Schmolke Immobilien GmbH",
+  "str": "Große Telegraphenstraße 2",
+  "ort": "50676 Köln",
+  "stadt": "Köln",
+  "tel": "0221 29005280",
+  "hinweis": "",
+  "nr": 29,
+  "runde": 2
+ },
+ {
+  "name": "Mayser Hausverwaltung",
+  "str": "Niederstraße 51",
+  "ort": "41460 Neuss",
+  "stadt": "Neuss",
+  "tel": "02131 7175500",
+  "hinweis": "",
+  "nr": 30,
+  "runde": 2
+ },
+ {
+  "name": "Hausverwaltung Brüggen",
+  "str": "Lessingstraße 35",
+  "ort": "41464 Neuss",
+  "stadt": "Neuss",
+  "tel": "02131 2031662",
+  "hinweis": "älterer Eintrag – Adresse prüfen",
+  "nr": 31,
+  "runde": 2
+ },
+ {
+  "name": "Franssen & Co. Immobilien Management OHG",
+  "str": "Erftstraße 50",
+  "ort": "41460 Neuss",
+  "stadt": "Neuss",
+  "tel": "02131 4088765",
+  "hinweis": "",
+  "nr": 32,
+  "runde": 2
+ },
+ {
+  "name": "Domhoff Hausverwaltung",
+  "str": "Drususallee 76",
+  "ort": "41460 Neuss",
+  "stadt": "Neuss",
+  "tel": "02131 718273",
+  "hinweis": "",
+  "nr": 33,
+  "runde": 2
+ },
+ {
+  "name": "HERMESS Hausverwaltung",
+  "str": "Ackerstraße 20",
+  "ort": "40233 Düsseldorf",
+  "stadt": "Düsseldorf",
+  "tel": "0211 1646353",
+  "hinweis": "",
+  "nr": 34,
+  "runde": 2
+ }
+]
