@@ -15,7 +15,7 @@ Foto: einfahrt-gartenpflege.jpg · Knopf: CALL
 ---
 
 ## 1 – Winterdienst buchen
-Status: offen
+Status: veröffentlicht am 19.11.2026 (mit Preisen 30/60 € netto pro Einsatz, Text angepasst)
 Foto: winterdienst-grafik.jpg · Knopf: LEARN_MORE → https://www.objektservicealdermann.com/leistungen/winterdienst/
 
 Bald ist es wieder so weit: Der erste Schnee kommt meistens dann, wenn man am wenigsten damit rechnet. Als Eigentümer oder Hausverwaltung sind Sie für geräumte und gestreute Wege verantwortlich. Diese Arbeit nehmen wir Ihnen gern ab. Wir räumen und streuen Gehwege, Zugänge und Zufahrten, zu einem festen Preis für die ganze Saison. In unserer Tour sind noch ein paar Plätze frei, melden Sie sich gern bei uns.
