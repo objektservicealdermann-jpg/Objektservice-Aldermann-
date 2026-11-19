@@ -51,3 +51,6 @@ Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: al
 - Keine Emoji-Aufzählungen, höchstens mal ein einzelnes Emoji. Keine Floskeln.
 - Kunden siezen („Sie“). Unterschrift immer: „Ihr Team von Objektservice Aldermann“ + 0176 23751407. Nie den Namen des Inhabers als Unterschrift.
 - Wenige Hashtags (max. ca. 8), ortsbezogen.
+
+## Zukunftsideen des Inhabers (nicht jetzt umsetzen)
+- Eigene Vermittlungsplattform für Aufträge (ähnlich MyHammer), aber besser und regional. Idee vom 19.11.2026, „weite Zukunft“. Bei Gelegenheit gemeinsam ein Konzept entwickeln (Zielgruppe, Startregion, Geschäftsmodell, Recht).
