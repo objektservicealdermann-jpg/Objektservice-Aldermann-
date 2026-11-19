@@ -11,3 +11,4 @@ Format: `JJJJ-MM-TT · Helfer · Erkenntnis`
 2026-11-19 · Einrichtung · Inhaber möchte Social-Media-Texte persönlich, Wir-Form, ohne Emoji-Listen, Unterschrift „Ihr Team von Objektservice Aldermann“.
 2026-11-19 · Einrichtung · Inhaber will Instagram-Inhalte vor dem Posten sehen; gezeichnete Erklär-Videos mit Ton kommen gut an.
 2026-11-19 · Einrichtung · Google-Profil hatte vor dem Start fast keine Aufrufe (2 in 30 Tagen) – Ausgangswert zum Vergleich.
+2026-11-19 · Inhaber · Video-Idee mit Potenzial: „Wer findet den Fehler?“ – Fotos/Videos von typischen Fehlern an Objekten (falsch montiert, schlecht geschnitten, Gefahrenstellen). Ablauf: Bild zeigen + Countdown, dann Auflösung mit rotem Kreis, kurzer Erklärung und Tipp. Ohne erkennbare Adressen, Gesichter oder Firmennamen; nur mit Erlaubnis des Eigentümers. Bis echte Fotos da sind: gezeichnete Varianten.
