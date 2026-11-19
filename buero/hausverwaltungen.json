@@ -50,23 +50,13 @@
   "runde": 1
  },
  {
-  "name": "HG Hausverwaltung",
-  "str": "Beythaler Straße 19",
-  "ort": "52355 Düren",
-  "stadt": "Düren",
-  "tel": "01523 3669198",
-  "hinweis": "",
-  "nr": 6,
-  "runde": 1
- },
- {
   "name": "L. Undorf Immobilien-Hausverwaltung e.K.",
   "str": "Monschauer Straße 49",
   "ort": "52355 Düren",
   "stadt": "Düren",
   "tel": "02421 67603",
   "hinweis": "",
-  "nr": 7,
+  "nr": 6,
   "runde": 1
  },
  {
@@ -76,7 +66,7 @@
   "stadt": "Düren",
   "tel": "02421 977590",
   "hinweis": "",
-  "nr": 8,
+  "nr": 7,
   "runde": 1
  },
  {
@@ -86,7 +76,7 @@
   "stadt": "Düren",
   "tel": "02421 9945994",
   "hinweis": "älterer Eintrag – Adresse prüfen",
-  "nr": 9,
+  "nr": 8,
   "runde": 1
  },
  {
@@ -96,7 +86,7 @@
   "stadt": "Aachen",
   "tel": "0241 91389930",
   "hinweis": "",
-  "nr": 10,
+  "nr": 9,
   "runde": 1
  },
  {
@@ -106,7 +96,7 @@
   "stadt": "Aachen",
   "tel": "0241 98092470",
   "hinweis": "",
-  "nr": 11,
+  "nr": 10,
   "runde": 1
  },
  {
@@ -116,7 +106,7 @@
   "stadt": "Aachen",
   "tel": "0241 505022",
   "hinweis": "",
-  "nr": 12,
+  "nr": 11,
   "runde": 1
  },
  {
@@ -126,7 +116,7 @@
   "stadt": "Aachen",
   "tel": "0241 562300",
   "hinweis": "älterer Eintrag – Adresse prüfen",
-  "nr": 13,
+  "nr": 12,
   "runde": 1
  },
  {
@@ -136,7 +126,7 @@
   "stadt": "Aachen",
   "tel": "0241 706578",
   "hinweis": "",
-  "nr": 14,
+  "nr": 13,
   "runde": 1
  },
  {
@@ -146,7 +136,7 @@
   "stadt": "Aachen",
   "tel": "0241 46861552",
   "hinweis": "",
-  "nr": 15,
+  "nr": 14,
   "runde": 1
  },
  {
@@ -156,7 +146,7 @@
   "stadt": "Aachen",
   "tel": "0241 59520",
   "hinweis": "",
-  "nr": 16,
+  "nr": 15,
   "runde": 1
  },
  {
@@ -166,7 +156,7 @@
   "stadt": "Mönchengladbach",
   "tel": "02166 4525897",
   "hinweis": "",
-  "nr": 17,
+  "nr": 16,
   "runde": 2
  },
  {
@@ -176,7 +166,7 @@
   "stadt": "Mönchengladbach",
   "tel": "02166 924436",
   "hinweis": "",
-  "nr": 18,
+  "nr": 17,
   "runde": 2
  },
  {
@@ -186,7 +176,7 @@
   "stadt": "Mönchengladbach",
   "tel": "02161 910427",
   "hinweis": "",
-  "nr": 19,
+  "nr": 18,
   "runde": 2
  },
  {
@@ -196,7 +186,7 @@
   "stadt": "Mönchengladbach",
   "tel": "02161 492690",
   "hinweis": "",
-  "nr": 20,
+  "nr": 19,
   "runde": 2
  },
  {
@@ -206,7 +196,7 @@
   "stadt": "Mönchengladbach",
   "tel": "02161 6533180",
   "hinweis": "",
-  "nr": 21,
+  "nr": 20,
   "runde": 2
  },
  {
@@ -216,7 +206,7 @@
   "stadt": "im Kreis Heinsberg",
   "tel": "02451 68500",
   "hinweis": "",
-  "nr": 22,
+  "nr": 21,
   "runde": 2
  },
  {
@@ -226,7 +216,7 @@
   "stadt": "Heinsberg",
   "tel": "02452 9242460",
   "hinweis": "",
-  "nr": 23,
+  "nr": 22,
   "runde": 2
  },
  {
@@ -236,7 +226,7 @@
   "stadt": "Erkelenz",
   "tel": "",
   "hinweis": "",
-  "nr": 24,
+  "nr": 23,
   "runde": 2
  },
  {
@@ -246,7 +236,7 @@
   "stadt": "Eschweiler",
   "tel": "02403 830590",
   "hinweis": "",
-  "nr": 25,
+  "nr": 24,
   "runde": 2
  },
  {
@@ -256,7 +246,7 @@
   "stadt": "Herzogenrath",
   "tel": "",
   "hinweis": "",
-  "nr": 26,
+  "nr": 25,
   "runde": 2
  },
  {
@@ -266,7 +256,7 @@
   "stadt": "Köln",
   "tel": "0221 4927299",
   "hinweis": "",
-  "nr": 27,
+  "nr": 26,
   "runde": 2
  },
  {
@@ -276,7 +266,7 @@
   "stadt": "Köln",
   "tel": "0221 640001020",
   "hinweis": "",
-  "nr": 28,
+  "nr": 27,
   "runde": 2
  },
  {
@@ -286,7 +276,7 @@
   "stadt": "Köln",
   "tel": "0221 29005280",
   "hinweis": "",
-  "nr": 29,
+  "nr": 28,
   "runde": 2
  },
  {
@@ -296,7 +286,7 @@
   "stadt": "Neuss",
   "tel": "02131 7175500",
   "hinweis": "",
-  "nr": 30,
+  "nr": 29,
   "runde": 2
  },
  {
@@ -306,7 +296,7 @@
   "stadt": "Neuss",
   "tel": "02131 2031662",
   "hinweis": "älterer Eintrag – Adresse prüfen",
-  "nr": 31,
+  "nr": 30,
   "runde": 2
  },
  {
@@ -316,7 +306,7 @@
   "stadt": "Neuss",
   "tel": "02131 4088765",
   "hinweis": "",
-  "nr": 32,
+  "nr": 31,
   "runde": 2
  },
  {
@@ -326,7 +316,7 @@
   "stadt": "Neuss",
   "tel": "02131 718273",
   "hinweis": "",
-  "nr": 33,
+  "nr": 32,
   "runde": 2
  },
  {
@@ -336,7 +326,7 @@
   "stadt": "Düsseldorf",
   "tel": "0211 1646353",
   "hinweis": "",
-  "nr": 34,
+  "nr": 33,
   "runde": 2
  }
 ]
