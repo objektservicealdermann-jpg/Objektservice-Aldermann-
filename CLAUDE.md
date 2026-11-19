@@ -65,3 +65,10 @@ Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: al
 - Alle E-Mail-Entwürfe (HTML) mit dieser Signatur, Schrift Arial 14px. In E-Mails darf der volle Name stehen.
 - Eigene E-Mail-Adresse (z. B. info@objektservicealdermann.com) über das bereits bezahlte Google Workspace einrichten; Gmail-Adresse weiterleiten; ggf. Tarif Business Starter. Erinnerung am 26.11.2026 geplant. Danach Website, Signatur, Impressum, Google-Profil, Instagram umstellen.
 - Übersichtsseite des Büro-Teams: https://claude.ai/artifact/W38Nw8br4WR5kmitDEt6uW (Vorlage buero/buero-team-vorlage.html; bei neuen/geänderten Helfern aktualisieren).
+
+## Rechnungen
+- Generator: `buero/rechnungen/rechnung-erstellen.py <daten.json> <ausgabe.html> buero/rechnungen/logo.png`, danach mit Chromium als A4-PDF drucken (printBackground, Ränder 0). Layout = Vorlage des Inhabers (roter Kopf, Meta-Leiste, VON/AN/Zu bezahlen, Ausführungsort, Positionen, Summen, Bankverbindung).
+- Stundensatz 33,00 € netto, Anfahrt Zone 2 = 25,00 € (weitere Zonen beim Inhaber erfragen), 19 % USt, Zahlungsziel 7 Tage, Überweisung. Letzte Nummer: R-0138 (15.11.2026) → nächste R-0139.
+- Kunden- und Bankdaten NICHT in dieses öffentliche Repository schreiben; aus der letzten gesendeten Rechnung (Gmail) übernehmen, bis das Repo privat ist.
+- Steuernummer fehlt noch auf den Rechnungen (Pflichtangabe nach § 14 UStG) – Feld `steuernummer` füllen, sobald der Inhaber sie nennt.
+- Rechnung als Gmail-Entwurf mit Signatur an die Kreditoren-Adresse des Kunden vorbereiten, nie selbst senden.
