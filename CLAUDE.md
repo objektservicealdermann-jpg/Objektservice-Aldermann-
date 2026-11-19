@@ -68,7 +68,7 @@ Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: al
 
 ## Rechnungen
 - Generator: `buero/rechnungen/rechnung-erstellen.py <daten.json> <ausgabe.html> buero/rechnungen/logo.png`, danach mit Chromium als A4-PDF drucken (printBackground, Ränder 0). Layout = Vorlage des Inhabers (roter Kopf, Meta-Leiste, VON/AN/Zu bezahlen, Ausführungsort, Positionen, Summen, Bankverbindung).
-- Stundensatz 33,00 € netto, Anfahrt Zone 2 = 25,00 € (weitere Zonen beim Inhaber erfragen), 19 % USt, Zahlungsziel 7 Tage, Überweisung. Letzte Nummer: R-0138 (15.11.2026) → nächste R-0139.
+- Preise sind kundenabhängig. Üblicher Stundensatz des Inhabers: 40–60 € netto. Stammkunde Hotel (Rechnungen R-01xx): Sonderpreis 33,00 €/Std., Anfahrt Zone 2 = 25,00 €. Bei neuen Kunden IMMER vorher den Preis beim Inhaber erfragen, nie selbst festlegen. Anfahrtszonen und Materialaufschlag noch offen. 19 % USt, Zahlungsziel 7 Tage, Überweisung. Letzte Nummer: R-0138 (15.11.2026) → nächste R-0139.
 - Kunden- und Bankdaten NICHT in dieses öffentliche Repository schreiben; aus der letzten gesendeten Rechnung (Gmail) übernehmen, bis das Repo privat ist.
 - Steuernummer fehlt noch auf den Rechnungen (Pflichtangabe nach § 14 UStG) – Feld `steuernummer` füllen, sobald der Inhaber sie nennt.
 - Rechnung als Gmail-Entwurf mit Signatur an die Kreditoren-Adresse des Kunden vorbereiten, nie selbst senden.
