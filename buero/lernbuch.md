@@ -19,3 +19,4 @@ Format: `JJJJ-MM-TT · Helfer · Erkenntnis`
 
 - 19.11.2026: Rahmenvertrag-Vorschlag für Stammkunden aus den echten Rechnungsstunden ableiten (Durchschnitt pro Monat), zwei Pakete anbieten, Absage-Regel (7 Tage verschiebbar, kurzfristig = erbracht) gegen Arbeitsausfall.
 - 19.11.2026: Gmail-App (iPhone) ignoriert display:none beim Bearbeiten von Entwürfen → beide Signatur-Logos sichtbar. Lösung: in Gmail-Entwürfen nur ein Logo (hell, mit weißer Kontur).
+- 19.11.2026: Gezeichnete Strichmännchen-Reels (Winterdienst, Schranktür, Küche) kamen beim Inhaber und seiner Freundin NICHT an: "nicht ansprechend, nicht lustig genug". Formulierung "Schreiner-Modus" geht gar nicht. Künftig: erst Beispiel-Reel/Stil vom Inhaber holen, bevorzugt echte Handyaufnahmen mit Texten/Musik schneiden statt Zeichnungen.
