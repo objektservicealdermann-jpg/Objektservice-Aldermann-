@@ -29,7 +29,29 @@ Regionale Plattform, die Auftraggeber (Privatleute, Hausverwaltungen, Firmen) mi
 - Optionales Pro-Abo für Handwerker: niedrigere Erfolgsgebühr, hervorgehobenes Profil, Werkzeuge (Angebote/Rechnungen schreiben, Terminkalender, Kundenkartei).
 - Stammkunden-Bonus: Folgeaufträge desselben Kunden über die Plattform günstiger – hält Handwerker UND Kunden auf der Plattform.
 - Profi-Zugang für Hausverwaltungen/Firmen (mehrere Objekte verwalten, feste Dienstleister, Sammelrechnung) gegen Monatsgebühr.
-- Verifizierung und Basisprofil kostenlos – die Hürde zum Mitmachen klein halten.
+- ~~Verifizierung und Basisprofil kostenlos~~ → Inhaber (19.11.): Registrierung muss NICHT unbedingt kostenlos sein, Ziel ist viel Umsatz. Optionen: einmalige Verifizierungsgebühr (deckt Ausweis-/Gewerbeprüfung), kostenlos nur in der Startphase in einer Region, oder Grundgebühr pro Jahr.
+
+## Weitere Einnahmequellen (Ideen von Claude)
+- Einmalige Verifizierungsgebühr + Jahresgebühr für das Siegel „Geprüfter Betrieb“.
+- Hervorgehobene Platzierung in einer Region/Gewerk (fester Preis pro Monat, klar als „Anzeige“ markiert).
+- Partner-Provisionen: Versicherungen (Betriebshaftpflicht für Handwerker), Materialhändler/Baumärkte, Werkzeugverleih, Fahrzeugleasing.
+- Zahlungsabwicklung über die Plattform (kleine Gebühr), auf Wunsch Treuhand oder Ratenzahlung/Finanzierung für Kunden über einen Partner.
+- Software für Handwerker im Abo (Angebote, Rechnungen, E-Rechnung, Kalender, Kundenkartei) – auch für Betriebe nutzbar, die keine Aufträge vermittelt bekommen.
+- Profi-Zugang für Hausverwaltungen/Firmen mit Rahmenverträgen, festen Dienstleistern, Sammelrechnungen.
+
+## Funktionen, die die Plattform besser machen (Ideen von Claude)
+- Anfrage in 2 Minuten: Kategorie wählen, Fotos hochladen, Ort, Wunschtermin – auch per Sprachnachricht.
+- Automatisches Matching nach Gewerk, Entfernung, Verfügbarkeit, Bewertung und Antwortgeschwindigkeit.
+- Bewertungen nur nach echtem, über die Plattform angenommenem Auftrag (keine gekauften Bewertungen).
+- Chat mit automatischer Sperre von Telefonnummern/E-Mails/Links bis zur Preisannahme.
+- Benachrichtigung per App, SMS oder WhatsApp, damit Handwerker die 2-Stunden-Frist schaffen; „Pause“-Knopf bei Urlaub.
+- Streitfall-/Schlichtungsbereich und klare Regeln für Stornos.
+- Später eigene App (iPhone/Android).
+
+## Wachstum / Internationalisierung (Wunsch: später auch international)
+- Start in einer Region (Jülich, Düren, Aachen), dann NRW, dann ganz Deutschland.
+- Danach naheliegend: Österreich und Schweiz (gleiche Sprache), Niederlande/Belgien (Grenznähe zu Aachen).
+- Von Anfang an technisch vorbereiten: mehrere Sprachen, Währungen, länderspezifische Steuern, Rechtstexte und Verifizierungsunterlagen pro Land.
 
 ## Offene Fragen für später (von Claude notiert)
 - Höhe der Erfolgsgebühr (fester Betrag oder % vom Auftragswert)? Wie wird die Annahme nachgewiesen (Bestätigung durch beide Seiten in der Plattform)?
