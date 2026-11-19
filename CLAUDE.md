@@ -57,3 +57,7 @@ Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: al
 
 ## Zukunftsideen des Inhabers (nicht jetzt umsetzen)
 - Eigene Vermittlungsplattform für Aufträge (ähnlich MyHammer), aber besser und regional. Idee vom 19.11.2026, „weite Zukunft“. Bei Gelegenheit gemeinsam ein Konzept entwickeln (Zielgruppe, Startregion, Geschäftsmodell, Recht).
+
+## E-Mail-Signatur
+- Vorlage: `buero/email-signatur.html` (zentriert unter dem schwarzen Logo, roter Strich genau logobreit; `LOGO` durch `cid:att0` ersetzen und `public/img/signatur-logo.png` als Inline-Anhang mitgeben, oder später die URL https://www.objektservicealdermann.com/img/signatur-logo.png).
+- Alle E-Mail-Entwürfe (HTML) mit dieser Signatur, Schrift Arial 14px. In E-Mails darf der volle Name stehen.
