@@ -44,7 +44,7 @@ td.desc{{width:52%;padding-right:8mm}} .t{{margin-bottom:2mm}} .d{{line-height:1
 <div class="meta">
 <div><span><b>RECHNUNGSNUMMER:</b></span><span>{e(d["nummer"])}</span></div><div><span><b>KUNDENNUMMER:</b></span><span>{e(d["kundennr"])}</span></div><div><span><b>AUSGESTELLT:</b></span><span>{e(d["ausgestellt"])}</span></div>
 <div><span><b>ZAHLUNGSZIEL:</b></span><span>{e(d["zahlungsziel"])}</span></div><div><span><b>LIEFERDATUM:</b></span><span>{e(d["lieferdatum"])}</span></div><div><span><b>ZAHLUNGSFORM:</b></span><span>{e(d["zahlungsform"])}</span></div></div>
-<div class="addr"><div><b>VON</b>Objektservice Aldermann<br>Bretzelbäckerstr. 3<br>52428 Jülich<br>Deutschland{('<br><span style="font-size:8.6pt">Steuernummer: '+e(d["steuernummer"])+'</span>') if d.get("steuernummer") else ''}</div>
+<div class="addr"><div><b>VON</b>Objektservice Aldermann<br>Bretzelbäckerstr. 3<br>52428 Jülich<br>Deutschland{('<br><span style="font-size:8.6pt">USt-IdNr.: '+e(d["steuernummer"])+'</span>') if d.get("steuernummer") else ''}</div>
 <div><b>AN</b>{'<br>'.join(e(x) for x in d["an"])}</div>
 <div><b>Zu bezahlen:</b><div class="big">{eur(brutto)} €</div></div></div>
 <div class="ort">Ausführungsort:<br>{'<br>'.join(e(x) for x in d["ausfuehrungsort"])}</div>

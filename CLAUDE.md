@@ -13,7 +13,7 @@ Kommunikation mit dem Inhaber immer auf Deutsch, einfach und ohne Fachjargon. Er
 - **Leistungen:** Hausmeisterservice/Objektbetreuung, Garten- und Grünpflege (Rasen, Hecken-/Formschnitt), Kleinreparaturen, Möbel-/Küchenmontage, Schreiner- und Montagearbeiten
 - **Partner:** fester Garten- und Landschaftsbaubetrieb für größere Arbeiten
 - **Ziel:** mehr Pflegeobjekte mit fester Monatspauschale (planbares Einkommen), Zielgruppe v. a. Hausverwaltungen, WEGs, Vermieter, Gewerbe
-- **Steuer:** umsatzsteuerpflichtig, keine USt-IdNr. Steuernummer/Steuer-ID nie veröffentlichen.
+- **Steuer:** umsatzsteuerpflichtig. USt-IdNr. (zugleich W-IdNr.): **DE465887336** (seit 19.10.2026) – steht im Impressum und gehört auf jede Rechnung. Steuernummer und persönliche Steuer-ID nie veröffentlichen.
 
 ## Wichtige Regeln
 - Bestandskunden (z. B. Hotels) **nicht** als Referenz auf der Website oder in Werbung nennen.
@@ -70,5 +70,5 @@ Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: al
 - Generator: `buero/rechnungen/rechnung-erstellen.py <daten.json> <ausgabe.html> buero/rechnungen/logo.png`, danach mit Chromium als A4-PDF drucken (printBackground, Ränder 0). Layout = Vorlage des Inhabers (roter Kopf, Meta-Leiste, VON/AN/Zu bezahlen, Ausführungsort, Positionen, Summen, Bankverbindung).
 - Preise sind kundenabhängig. Üblicher Stundensatz des Inhabers: 40–60 € netto. Stammkunde Hotel (Rechnungen R-01xx): Sonderpreis 33,00 €/Std., Anfahrt Zone 2 = 25,00 €. Bei neuen Kunden IMMER vorher den Preis beim Inhaber erfragen, nie selbst festlegen. Anfahrtszonen und Materialaufschlag noch offen. 19 % USt, Zahlungsziel 7 Tage, Überweisung. Letzte Nummer: R-0138 (15.11.2026) → nächste R-0139.
 - Kunden- und Bankdaten NICHT in dieses öffentliche Repository schreiben; aus der letzten gesendeten Rechnung (Gmail) übernehmen, bis das Repo privat ist.
-- Steuernummer fehlt noch auf den Rechnungen (Pflichtangabe nach § 14 UStG) – Feld `steuernummer` füllen, sobald der Inhaber sie nennt.
+- Auf jede Rechnung: „USt-IdNr.: DE465887336“ (Pflichtangabe nach § 14 UStG, erfüllt durch die USt-IdNr.).
 - Rechnung als Gmail-Entwurf mit Signatur an die Kreditoren-Adresse des Kunden vorbereiten, nie selbst senden.
