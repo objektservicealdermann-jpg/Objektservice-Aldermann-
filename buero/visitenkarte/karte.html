@@ -1,0 +1,45 @@
+<!doctype html><meta charset="utf-8">
+<style>
+@page{size:89mm 59mm;margin:0}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Inter,Arial,sans-serif;color:#141414}
+.card{width:89mm;height:59mm;position:relative;overflow:hidden;page-break-after:always}
+/* Vorderseite */
+.front{background:#fff}
+.front .logo{position:absolute;left:7mm;top:7.5mm;width:30mm}
+.front .bar{position:absolute;left:41mm;top:7.5mm;width:0.8mm;height:12.9mm;background:#d71920}
+.front .who{position:absolute;left:44mm;top:7.6mm;line-height:1.25}
+.front .name{font-weight:700;font-size:9.5pt;color:#d71920}
+.front .role{font-size:7pt;color:#5c6066;margin-top:.6mm}
+.front .contact{position:absolute;left:7mm;top:29mm;font-size:7.4pt;line-height:1.75}
+.front .contact b{display:inline-block;width:4.5mm;color:#d71920;font-weight:700}
+.front .web{color:#d71920;font-weight:700}
+.front .qr{position:absolute;right:7mm;bottom:8.2mm;width:15mm;height:15mm}
+.front .qrtxt{position:absolute;right:7mm;bottom:5.3mm;width:15mm;text-align:center;font-size:4.6pt;color:#5c6066}
+.front .foot{position:absolute;left:0;right:0;bottom:0;height:3.6mm;background:#d71920}
+/* Rückseite */
+.back{background:#0b0b0c;color:#fff}
+.back .logo{position:absolute;left:50%;top:9mm;transform:translateX(-50%);width:44mm}
+.back .line{position:absolute;left:50%;top:30.5mm;transform:translateX(-50%);width:44mm;height:.7mm;background:#d71920}
+.back .svc{position:absolute;left:0;right:0;top:34mm;text-align:center;font-size:7.2pt;line-height:1.6;color:#e8e8e8;font-weight:600}
+.back .area{position:absolute;left:0;right:0;bottom:7mm;text-align:center;font-size:6pt;line-height:1.5;color:#9a9da3;letter-spacing:.2px}
+</style>
+<div class="card front">
+  <img class="logo" src="logo-hell.png">
+  <div class="bar"></div>
+  <div class="who"><div class="name">Jan-Luca Aldermann</div><div class="role">Inhaber</div><div class="role">Objektservice</div></div>
+  <div class="contact">
+    <div><b>T</b>0176 23751407</div>
+    <div><b>M</b>objektservicealdermann@gmail.com</div>
+    <div><b>W</b><span class="web">objektservicealdermann.com</span></div>
+    <div><b>A</b>Bretzelbäckerstraße 3 · 52428 Jülich</div>
+  </div>
+  <img class="qr" src="qr.svg"><div class="qrtxt">Website</div>
+  <div class="foot"></div>
+</div>
+<div class="card back">
+  <img class="logo" src="logo-dunkel.png">
+  <div class="line"></div>
+  <div class="svc">Hausmeisterservice · Gartenpflege<br>Winterdienst · Reparatur &amp; Montage</div>
+  <div class="area">Jülich · Düren · Aachen · Köln<br>Düsseldorf · Heinsberg · Mönchengladbach</div>
+</div>
