@@ -56,6 +56,8 @@ Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: al
 - Keine Emoji-Aufzählungen, höchstens mal ein einzelnes Emoji. Keine Floskeln.
 - Kunden siezen („Sie“). Unterschrift immer: „Ihr Team von Objektservice Aldermann“ + 0176 23751407. Nie den Namen des Inhabers als Unterschrift.
 - Wenige Hashtags (max. ca. 8), ortsbezogen.
+- KEINE Preise auf Instagram (Beiträge, Stories, Reels) – Preise nur auf Website, Angeboten, Auftragsblättern (Wunsch des Inhabers, 19.11.2026).
+- Stories mit Link: Windsor/API kann keine Link-Sticker setzen. Story-Bild dem Inhaber schicken, er postet in der Instagram-App mit Link-Sticker auf https://www.objektservicealdermann.com/...
 
 ## Aktueller Fokus (Entscheidung des Inhabers, 19.11.2026)
 - Erst den eigenen Betrieb vernünftig aufbauen – mit Mitarbeitern (mehr Pflegeobjekte, Team, feste Touren). Plattform und weitere Geschäftsideen danach (`buero/geschaeftsideen.md`).
