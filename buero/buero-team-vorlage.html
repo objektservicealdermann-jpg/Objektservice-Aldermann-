@@ -1,0 +1,140 @@
+<title>Büro Aldermann</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
+<style>
+/* Layout: schmale Spalte wie ein Dienstplan-Klemmbrett – Kopf mit Logo, dann Team-Karten, Gehirn, Zugänge, Regeln */
+:root{
+  --bg:#f5f5f3; --paper:#ffffff; --ink:#141414; --mute:#5c6066; --line:#e2e2de; --red:#d71920; --red-soft:#fbe9ea; --ok:#1f7a4d; --ok-soft:#e5f3eb; --warn:#a15c00; --warn-soft:#fdf1df;
+  --display:"Inter",system-ui,-apple-system,"Segoe UI",Arial,sans-serif;
+  --body:"Inter",system-ui,-apple-system,"Segoe UI",Arial,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#0e0e0f;--paper:#18181a;--ink:#ececec;--mute:#a3a6ab;--line:#2a2a2d;--red:#ff4a50;--red-soft:#3a1517;--ok:#4cc38a;--ok-soft:#14291e;--warn:#f0a43a;--warn-soft:#33240f;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0e0e0f;--paper:#18181a;--ink:#ececec;--mute:#a3a6ab;--line:#2a2a2d;--red:#ff4a50;--red-soft:#3a1517;--ok:#4cc38a;--ok-soft:#14291e;--warn:#f0a43a;--warn-soft:#33240f;color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.55;margin:0}
+.wrap{max-width:760px;margin:0 auto;padding-block:28px 56px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.logo-dark{display:none}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .logo-light{display:none}:root:not([data-theme="light"]) .logo-dark{display:block}}
+:root[data-theme="dark"] .logo-light{display:none}:root[data-theme="dark"] .logo-dark{display:block}
+header{display:flex;align-items:center;gap:16px;padding-bottom:18px;border-bottom:3px solid var(--red)}
+header img{height:56px;width:auto}
+header .who{border-left:3px solid var(--red);padding-left:14px;min-width:0}
+header h1{font-family:var(--display);font-size:22px;line-height:1.2;margin:0;font-weight:800;letter-spacing:-.01em;text-wrap:balance}
+header p{margin:2px 0 0;color:var(--mute);font-size:13.5px}
+.intro{margin:22px 0 8px;font-size:16px;max-width:62ch}
+h2{font-family:var(--display);font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin:34px 0 12px;font-weight:700}
+.team{display:grid;gap:12px}
+.card{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+.card .top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap}
+.card h3{margin:0;font-size:17px;font-weight:700}
+.shift{font-size:12.5px;font-weight:600;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:999px;padding:3px 10px;white-space:nowrap;font-variant-numeric:tabular-nums}
+.card p{margin:8px 0 0;color:var(--ink)}
+.card .never{margin-top:8px;font-size:13.5px;color:var(--mute)}
+.card .never b{color:var(--red);font-weight:600}
+.next{margin-top:10px;font-size:13px;color:var(--mute);font-variant-numeric:tabular-nums}
+.next b{color:var(--ink);font-weight:600}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media (max-width:560px){.grid2{grid-template-columns:1fr}}
+.brain h3{margin:0 0 4px;font-size:15.5px}
+.brain p{margin:0;color:var(--mute);font-size:14px}
+.keys{list-style:none;margin:0;padding:0;background:var(--paper);border:1px solid var(--line);border-radius:12px}
+.keys li{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:11px 16px;border-top:1px solid var(--line)}
+.keys li:first-child{border-top:0}
+.pill{font-size:12px;font-weight:700;border-radius:999px;padding:2px 10px;white-space:nowrap}
+.pill.ok{color:var(--ok);background:var(--ok-soft)}
+.pill.todo{color:var(--warn);background:var(--warn-soft)}
+.rules{counter-reset:r;list-style:none;margin:0;padding:0;display:grid;gap:10px}
+.rules li{background:var(--paper);border:1px solid var(--line);border-left:4px solid var(--red);border-radius:10px;padding:12px 16px}
+.say{background:var(--ink);color:var(--bg);border-radius:12px;padding:18px 20px}
+.say h3{margin:0 0 8px;font-size:16px}
+.say ul{margin:0;padding-left:18px}
+.say li{margin:4px 0}
+.say q{font-style:normal;font-weight:600}
+footer{margin-top:28px;color:var(--mute);font-size:12.5px}
+</style>
+
+<div class="wrap">
+<header>
+  <img class="logo-light" src="LOGO_LIGHT" alt="Objektservice Aldermann">
+  <img class="logo-dark" src="LOGO_DARK" alt="Objektservice Aldermann">
+  <div class="who"><h1>Dein Büro-Team</h1><p>Stand: Donnerstag, 19. November 2026</p></div>
+</header>
+
+<p class="intro">Jan-Luca, das ist dein Büro. Es hat ein <b>Gehirn</b>, in dem alles über deine Firma steht, und <b>fünf Helfer</b>, die zu festen Zeiten ihre Arbeit machen. Du bist der Chef: Nach außen geht nichts ohne dein OK.</p>
+
+<h2>Das Team</h2>
+<div class="team">
+  <article class="card">
+    <div class="top"><h3>Postfach-Assistent</h3><span class="shift">Mo–Sa · 7:13 Uhr</span></div>
+    <p>Liest morgens deine neuen E-Mails, sortiert sie nach Wichtigkeit und legt für Kundenanfragen fertige Antwort-Entwürfe mit deiner Signatur an. Danach bekommst du eine kurze Zusammenfassung.</p>
+    <div class="never"><b>Macht nie:</b> selbst E-Mails verschicken. Du tippst nur noch auf „Senden“.</div>
+    <div class="next">Nächster Einsatz: <b>Fr 20.11., 7:13 Uhr</b> · Heute erledigt ✓</div>
+  </article>
+  <article class="card">
+    <div class="top"><h3>Auftrags-Scout</h3><span class="shift">Mo + Do · 8:43 Uhr</span></div>
+    <p>Sucht nach Ausschreibungen und Gesuchen, die zu dir passen: Grünpflege, Winterdienst, Hausmeisterdienste in Jülich, Düren, Aachen, Heinsberg, Mönchengladbach, Köln und Düsseldorf. Meldet sich nur, wenn etwas Passendes dabei ist.</p>
+    <div class="never"><b>Macht nie:</b> sich ohne dein OK irgendwo bewerben oder registrieren.</div>
+    <div class="next">Nächster Einsatz: <b>Do 19.11., 8:43 Uhr</b></div>
+  </article>
+  <article class="card">
+    <div class="top"><h3>Google-Betreuer</h3><span class="shift">Di · 10:17 Uhr</span></div>
+    <p>Veröffentlicht jede Woche einen Beitrag in deinem Google-Unternehmensprofil und schaut, wie oft dein Profil angezeigt und angeklickt wurde. Die nächsten vier Beiträge hast du schon freigegeben.</p>
+    <div class="never"><b>Macht nie:</b> Beiträge posten, die du nicht freigegeben hast.</div>
+    <div class="next">Nächster Einsatz: <b>Di 24.11.</b> · Thema: Winterdienst</div>
+  </article>
+  <article class="card">
+    <div class="top"><h3>Website- &amp; Social-Media-Betreuer</h3><span class="shift">Fr · 11:23 Uhr</span></div>
+    <p>Prüft, ob die Website läuft, bringt Abwechslung rein und erstellt jede Woche einen Instagram-Beitrag mit zwei Stories. Alle zwei Wochen kommt ein gezeichnetes Erklär-Video mit Ton dazu.</p>
+    <div class="never"><b>Macht nie:</b> auf Instagram posten, bevor du es gesehen und freigegeben hast.</div>
+    <div class="next">Nächster Einsatz: <b>Fr 20.11., 11:23 Uhr</b></div>
+  </article>
+  <article class="card">
+    <div class="top"><h3>Erinnerungs-Helfer</h3><span class="shift">Mo + Do · 16:37 Uhr</span></div>
+    <p>Erinnert dich daran, Baustellenfotos zu schicken, und gibt dir jedes Mal einen Tipp, was sich gerade lohnt. Dazu kommen einzelne Termine, die du dir gewünscht hast.</p>
+    <div class="never"><b>Macht nie:</b> nerven. Wenn du schon Fotos geschickt hast, sagt er nur Danke.</div>
+    <div class="next">Heute <b>16:37 Uhr</b> Fotos · heute <b>18:07 Uhr</b> Instagram-Reel geht online · <b>Mi 26.11., 18:43 Uhr</b> eigene E-Mail-Adresse</div>
+  </article>
+</div>
+
+<h2>Das Gehirn</h2>
+<div class="grid2">
+  <div class="card brain"><h3>Firmenprofil</h3><p>Adresse, Leistungen, Einsatzgebiet, deine Regeln und dein Schreibstil. Jeder Helfer liest es vor jedem Einsatz.</p></div>
+  <div class="card brain"><h3>Lernbuch</h3><p>Hier schreiben die Helfer rein, was sie gelernt haben, z. B. welche Beiträge gut ankommen. So wird das Büro mit der Zeit besser.</p></div>
+  <div class="card brain"><h3>Ablage</h3><p>Briefe an 34 Hausverwaltungen, Visitenkarte, E-Mail-Signatur, Beitragsplan und Marketing-Plan. Sag einfach „schick mir …“.</p></div>
+  <div class="card brain"><h3>Notizen für später</h3><p>Eigene E-Mail-Adresse auf deiner Domain, Ideen für Videos und die Vermittlungsplattform für die ferne Zukunft.</p></div>
+</div>
+
+<h2>Die Zugänge</h2>
+<ul class="keys">
+  <li><span>Gmail (Postfach)</span><span class="pill ok">verbunden</span></li>
+  <li><span>Google-Unternehmensprofil</span><span class="pill ok">verbunden</span></li>
+  <li><span>Instagram</span><span class="pill ok">verbunden</span></li>
+  <li><span>Website (Cloudflare &amp; GitHub)</span><span class="pill ok">verbunden</span></li>
+  <li><span>Google Kalender</span><span class="pill todo">fehlt noch</span></li>
+  <li><span>Rechnungsdaten (Preise, IBAN, Steuernummer)</span><span class="pill todo">fehlt noch</span></li>
+</ul>
+
+<h2>Die Grundregeln</h2>
+<ol class="rules">
+  <li>Nach außen geht nichts ohne dein OK: keine E-Mail, kein Instagram-Post, keine Bewerbung.</li>
+  <li>Jede E-Mail bekommt deine Signatur mit Logo.</li>
+  <li>Bestandskunden werden nie als Referenz genannt.</li>
+  <li>Keine Werbe-E-Mails an Firmen. Akquise läuft per Brief, Anruf oder persönlich.</li>
+  <li>Texte in der Wir-Form, persönlich, ohne Emoji-Listen, unterschrieben mit „Ihr Team von Objektservice Aldermann“.</li>
+  <li>Keine Kundendaten im Lernbuch, und Fotos immer ohne Standortdaten.</li>
+</ol>
+
+<h2>So sprichst du mit deinem Büro</h2>
+<div class="say">
+  <h3>Einfach schreiben oder sprechen, zum Beispiel:</h3>
+  <ul>
+    <li><q>Schick mir nochmal die Briefe.</q></li>
+    <li><q>Hier sind Fotos von heute, mach was draus.</q></li>
+    <li><q>Schreib ein Angebot für Rasenpflege, 300 Quadratmeter.</q></li>
+    <li><q>Pausiere den Auftrags-Scout für zwei Wochen.</q></li>
+    <li><q>Was steht heute an?</q></li>
+  </ul>
+</div>
+
+<footer>Objektservice Aldermann · Bretzelbäckerstraße 3 · 52428 Jülich · 0176 23751407 · www.objektservicealdermann.com</footer>
+</div>
