@@ -43,6 +43,9 @@ Alle öffentlichen Dateien liegen im Ordner `public/` (nur dieser Ordner geht on
 - Alte Worker im Konto (objektservice-aldermann, delicate-cake-0577, broken-violet-25fe, purple-poetry-2f11) sind nicht mit der Adresse verbunden.
 - Cloudflare-API: Token „Claude Website“ ist als Netzwerk-Geheimnis in der Claude-Umgebung hinterlegt (nie im Klartext speichern).
 
+## Lernbuch
+- `buero/lernbuch.md`: vor jedem Einsatz lesen, danach kurz eintragen, was gelernt wurde (ohne Kundendaten). Korrekturen des Inhabers als feste Regel hier in CLAUDE.md festhalten.
+
 ## Laufende Betreuung (Auftrag des Inhabers vom 19.11.2026)
 Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: alles am Laufen halten, regelmäßig Abwechslung (Saison-Band, Fotos, Texte), wöchentlich Google-Beitrag (`marketing/google-beitraege.md`), Instagram-Inhalte (Beiträge + Stories) erstellen. KI-generierte Bilder nie als eigene Arbeitsfotos ausgeben – nur als erkennbare Grafiken.
 
