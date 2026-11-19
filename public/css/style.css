@@ -206,3 +206,9 @@ form.anfrage{background:#fff;border:1px solid var(--line);border-radius:var(--ra
   .callbar svg{width:18px;height:18px}
 }
 @media (prefers-reduced-motion:reduce){.hero-video{display:none}html{scroll-behavior:auto}*{transition:none!important}}
+
+.reviews{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px}
+.review{margin:0;background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:24px;box-shadow:var(--shadow);display:flex;flex-direction:column}
+.review .stars{color:#f5b301;font-size:20px;letter-spacing:2px}
+.review blockquote{margin:10px 0 16px;font-size:16px;line-height:1.6}
+.review figcaption{margin-top:auto;color:var(--muted);font-size:14px}
