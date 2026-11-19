@@ -1,0 +1,88 @@
+<!doctype html><meta charset="utf-8">
+<style>
+/* DIN lang 99x210 mm + 2 mm Beschnitt rundum = 103x214 mm; Sicherheitsabstand 5 mm ab Seitenrand */
+@page{size:103mm 214mm;margin:0}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Inter,Arial,sans-serif;color:#141414}
+.p{width:103mm;height:214mm;position:relative;overflow:hidden;page-break-after:always;background:#fff}
+.red{color:#d71920}
+/* Vorderseite */
+.f .logo{position:absolute;top:9mm;left:50%;transform:translateX(-50%);width:62mm}
+.f h1{position:absolute;top:39mm;left:7mm;right:7mm;text-align:center;font-size:19pt;line-height:1.12;font-weight:800;letter-spacing:-.3px}
+.f .photo{position:absolute;top:60mm;left:0;right:0;height:47mm;background:url(hecke.jpg) center 55%/cover}
+.f .photo:after{content:"";position:absolute;left:0;right:0;bottom:0;height:2.2mm;background:#d71920}
+.f .tag{position:absolute;top:100mm;left:7mm;background:#d71920;color:#fff;font-weight:700;font-size:8.5pt;padding:1.4mm 3mm;border-radius:1mm;z-index:2}
+.f ul{position:absolute;top:112mm;left:9mm;right:7mm;list-style:none}
+.f li{font-size:13pt;font-weight:700;line-height:1.22;padding:1.3mm 0 1.3mm 9mm;position:relative}
+.f li:before{content:"";position:absolute;left:0;top:2.6mm;width:5mm;height:2.6mm;border-left:2.2px solid #d71920;border-bottom:2.2px solid #d71920;transform:rotate(-45deg)}
+.f li span{display:block;font-size:9pt;font-weight:500;color:#555;margin-top:.4mm}
+.f .call{position:absolute;left:0;right:0;bottom:0;height:42mm;background:#0b0b0c;color:#fff;text-align:center;padding-top:6.5mm}
+.f .call .k{font-size:9.5pt;letter-spacing:1.2px;text-transform:uppercase;color:#ff5a60;font-weight:700}
+.f .call .tel{font-size:25pt;font-weight:800;margin-top:1.5mm;letter-spacing:.5px}
+.f .call .w{font-size:10pt;margin-top:1mm;color:#e6e6e6}
+.f .call .w b{color:#fff}
+/* Rückseite */
+.b .top{position:absolute;top:0;left:0;right:0;height:24mm;background:#0b0b0c;border-bottom:2.2mm solid #d71920}
+.b .top h2{position:absolute;top:8.5mm;left:7mm;right:7mm;color:#fff;font-size:15pt;font-weight:800}
+.b .svc{position:absolute;top:31mm;left:7mm;right:7mm;display:grid;gap:3.2mm}
+.b .svc div{border-left:1.2mm solid #d71920;padding:.6mm 0 .6mm 3.5mm}
+.b .svc h3{font-size:11pt;font-weight:800;margin-bottom:.6mm}
+.b .svc p{font-size:8.8pt;line-height:1.38;color:#333}
+.b .ba{position:absolute;top:108mm;left:7mm;right:7mm;display:grid;grid-template-columns:1fr 1fr;gap:2mm;height:33mm}
+.b .ba div{background-size:cover;background-position:center;position:relative;border-radius:1mm}
+.b .ba span{position:absolute;left:1.5mm;top:1.5mm;font-size:6.5pt;font-weight:800;letter-spacing:.8px;color:#fff;background:#141414;padding:.6mm 1.6mm;border-radius:.6mm}
+.b .ba div:last-child span{background:#d71920}
+.b .cap{position:absolute;top:142mm;left:7mm;right:7mm;font-size:7.6pt;color:#666}
+.b .steps{position:absolute;top:149mm;left:7mm;right:7mm}
+.b .steps h3{font-size:11pt;font-weight:800;margin-bottom:2mm}
+.b .steps ol{list-style:none;display:grid;grid-template-columns:1fr 1fr 1fr;gap:2mm;counter-reset:s}
+.b .steps li{counter-increment:s;font-size:8.2pt;line-height:1.3;text-align:center}
+.b .steps li:before{content:counter(s);display:block;width:7mm;height:7mm;line-height:7mm;margin:0 auto 1.2mm;border-radius:50%;background:#d71920;color:#fff;font-weight:800;font-size:10pt}
+.b .foot{position:absolute;left:0;right:0;bottom:0;height:36mm;background:#f2f2f0;padding:5mm 7mm 0 7mm}
+.b .foot .qr{position:absolute;right:7mm;top:5mm;width:22mm;height:22mm;background:#fff;padding:1.2mm}
+.b .foot .qrt{position:absolute;right:7mm;top:27.6mm;width:22mm;text-align:center;font-size:6.4pt;color:#555}
+.b .foot .l{width:60mm;font-size:8.6pt;line-height:1.5}
+.b .foot .l .tel{font-size:13pt;font-weight:800;color:#d71920}
+.b .foot .stars{color:#e0a400;font-size:9pt;letter-spacing:1px}
+.b .foot .area{font-size:7.2pt;color:#555;margin-top:1mm}
+</style>
+
+<div class="p f">
+  <img class="logo" src="logo-hell.png">
+  <h1>Haus, Hof &amp; Garten<br><span class="red">in guten Händen.</span></h1>
+  <div class="photo"></div>
+  <div class="tag">Kostenlose Besichtigung</div>
+  <ul>
+    <li>Hausmeisterservice<span>Objektbetreuung, Treppenhaus, Mülltonnen</span></li>
+    <li>Garten- &amp; Heckenpflege<span>Rasen, Hecken, Unkraut, Laub</span></li>
+    <li>Winterdienst<span>Schnee räumen und streuen</span></li>
+    <li>Reparatur &amp; Montage<span>vom gelernten Schreiner</span></li>
+  </ul>
+  <div class="call">
+    <div class="k">Einfach anrufen</div>
+    <div class="tel">0176 23751407</div>
+    <div class="w">oder per <b>WhatsApp</b> schreiben</div>
+  </div>
+</div>
+
+<div class="p b">
+  <div class="top"><h2>Was wir für Sie erledigen</h2></div>
+  <div class="svc">
+    <div><h3>Hausmeisterservice</h3><p>Regelmäßige Betreuung für Häuser und Wohnanlagen: Kontrollgänge, Treppenhaus, Mülltonnen und kleine Reparaturen.</p></div>
+    <div><h3>Garten &amp; Hecke</h3><p>Rasenmähen, Heckenschnitt, Beete und Laub. Gern auch regelmäßig im Gartenpflege-Abo.</p></div>
+    <div><h3>Winterdienst</h3><p>Wir räumen und streuen Gehwege und Einfahrten, damit niemand ausrutscht.</p></div>
+    <div><h3>Reparatur &amp; Montage</h3><p>Möbel aufbauen, Türen einstellen, Zäune und Tore montieren: sauber und zuverlässig.</p></div>
+  </div>
+  <div class="ba"><div style="background-image:url(vorher.jpg)"><span>VORHER</span></div><div style="background-image:url(nachher.jpg)"><span>NACHHER</span></div></div>
+  <div class="cap">Balkon-Sichtschutz erneuert, an einem Tag erledigt</div>
+  <div class="steps"><h3>So einfach geht's</h3><ol><li>Anrufen oder WhatsApp schreiben</li><li>Wir schauen es uns kostenlos an</li><li>Sie erhalten einen festen Preis</li></ol></div>
+  <div class="foot">
+    <div class="l">
+      <div class="tel">0176 23751407</div>
+      <div>objektservicealdermann.com</div>
+      <div class="stars">★★★★★ <span style="color:#141414;letter-spacing:0">5,0 bei Google</span></div>
+      <div class="area">Jülich · Düren · Aachen · Heinsberg<br>Mönchengladbach · Köln · Düsseldorf</div>
+    </div>
+    <img class="qr" src="qr.svg"><div class="qrt">Zur Website</div>
+  </div>
+</div>
