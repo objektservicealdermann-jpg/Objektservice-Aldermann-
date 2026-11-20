@@ -80,7 +80,7 @@ Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: al
 ## Tonnen-Erinnerungen (Wunsch des Inhabers, 20.11.2026)
 - Sobald ein Objekt mit Tonnendienst beauftragt ist: Abfuhrplan holen (Stadt Aachen: abfallkalender.regioit.de/kalender-aachen, ICS-Download über downloadfile.jsp mit ort/strasse/hnr/fraktion-IDs) und für JEDEN Abfuhrtermin zwei Erinnerungen an den Inhaber planen (send_later): am Vortag nachmittags „Tonnen rausstellen“ und am Abfuhrtag „Tonnen zurückstellen“, inkl. Feiertagsverschiebungen. Jahreswechsel: neuen Kalender abrufen.
 - Objekt Aachen (Angebot AGB-0105): alle Fraktionen alle 14 Tage donnerstags (Papier 4-wöchentlich), Sondertermin Mi 23.12.2026 – Erinnerungen anlegen, sobald der Auftrag unterschrieben ist.
-- Objekte Jülich (AGB-0102/0103, beauftragt): Abfuhrplan der Container bei der Hausverwaltung angefragt – Erinnerungen anlegen, sobald er da ist (Start 01.12.2026 bzw. 01.02.2027).
+- Objekte Jülich (AGB-0102/0103, beauftragt): Abfuhrbezirk 3 (Kalender Juli–Dez. 2026 von der Hausverwaltung per Mail). Erinnerungen für Dez. 2026 angelegt (14 Stück, 16:47 raus / 12:13 rein). Kalender 2027 Ende Dezember bei der Hausverwaltung anfordern und Erinnerungen ergänzen.
 
 ## Rechnungen
 - Generator: `buero/rechnungen/rechnung-erstellen.py <daten.json> <ausgabe.html> buero/rechnungen/logo.png`, danach mit Chromium als A4-PDF drucken (printBackground, Ränder 0). Layout = Vorlage des Inhabers (roter Kopf, Meta-Leiste, VON/AN/Zu bezahlen, Ausführungsort, Positionen, Summen, Bankverbindung).
