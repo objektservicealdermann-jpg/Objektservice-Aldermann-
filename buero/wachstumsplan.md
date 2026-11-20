@@ -20,3 +20,5 @@ Ziel: genug feste Arbeit, um Mitarbeiter einzustellen, die auf der Baustelle arb
 
 ## Verlauf
 - 19.11.2026: Start. Feste Pflegeobjekte: (bitte vom Inhaber bestätigen). Google-Bewertungen: 6 (5,0). Briefe: 33 vorbereitet, noch nicht verschickt. Flyer: Druckdatei fertig.
+
+- 20.11.2026: Erste zwei Pflegeobjekte mit fester Monatspauschale unterschrieben (zusammen ca. 740 € netto/Monat + Winterdienst).
