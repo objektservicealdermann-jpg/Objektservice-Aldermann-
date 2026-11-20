@@ -22,3 +22,6 @@ Ziel: genug feste Arbeit, um Mitarbeiter einzustellen, die auf der Baustelle arb
 - 19.11.2026: Start. Feste Pflegeobjekte: (bitte vom Inhaber bestätigen). Google-Bewertungen: 6 (5,0). Briefe: 33 vorbereitet, noch nicht verschickt. Flyer: Druckdatei fertig.
 
 - 20.11.2026: Erste zwei Pflegeobjekte mit fester Monatspauschale unterschrieben (zusammen ca. 740 € netto/Monat + Winterdienst).
+
+## Ziel: 10.000 € netto Umsatz/Monat (gesetzt 20.11.2026)
+- Stand 20.11.2026: feste Pauschalen beauftragt ca. 740 €/Monat (Jülich, ab 12/2026 bzw. 02/2027); in Aussicht ca. 675–870 € (Aachen) und 1.878–2.504 € (Rahmenvertrag Stammkunde, ab 01/2027).

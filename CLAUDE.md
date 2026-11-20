@@ -60,6 +60,9 @@ Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: al
 - KEINE Preise auf Instagram (Beiträge, Stories, Reels) – Preise nur auf Website, Angeboten, Auftragsblättern (Wunsch des Inhabers, 19.11.2026).
 - Stories mit Link: Windsor/API kann keine Link-Sticker setzen. Story-Bild dem Inhaber schicken, er postet in der Instagram-App mit Link-Sticker auf https://www.objektservicealdermann.com/...
 
+## Ziel (Inhaber, 20.11.2026)
+- **10.000 € netto Umsatz pro Monat.** Weg: ca. 6.000–7.000 € feste Monatspauschalen (10–12 Objekte à ~500–900 €) + Einzelaufträge; dafür ab ca. 4.000 € festen Pauschalen ersten Mitarbeiter (Minijob/Teilzeit) einplanen. Fortschritt im Wochenstart melden.
+
 ## Aktueller Fokus (Entscheidung des Inhabers, 19.11.2026)
 - Erst den eigenen Betrieb vernünftig aufbauen – mit Mitarbeitern (mehr Pflegeobjekte, Team, feste Touren). Plattform und weitere Geschäftsideen danach (`buero/geschaeftsideen.md`).
 
