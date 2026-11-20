@@ -80,4 +80,4 @@ Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: al
 - Kunden- und Bankdaten NICHT in dieses öffentliche Repository schreiben; aus der letzten gesendeten Rechnung (Gmail) übernehmen, bis das Repo privat ist.
 - Auf jede Rechnung: „USt-IdNr.: DE465887336“ (Pflichtangabe nach § 14 UStG, erfüllt durch die USt-IdNr.).
 - Rechnung als Gmail-Entwurf mit Signatur an die Kreditoren-Adresse des Kunden vorbereiten, nie selbst senden.
-- Angebote: Jedes Objekt/Haus bekommt ein EIGENES Angebot (auch wenn Häuser nebeneinander liegen) – Häuser laufen separat. Heckenschnitt IMMER pro laufendem Meter abrechnen, nie pro Stunde. Angebote mit fester Monatspauschale und Häufigkeiten je Leistung (Beispiel-Layout: Rechnungsstil mit rotem Kopf).
+- Angebote: Jedes Objekt/Haus bekommt ein EIGENES Angebot (auch wenn Häuser nebeneinander liegen) – Häuser laufen separat. Heckenschnitt IMMER pro laufendem Meter abrechnen, nie pro Stunde (Spanne 6,50–15,00 € netto/lfd. m je nach Höhe, Breite, Zustand – Angabe des Inhabers 20.11.2026). Angebote mit fester Monatspauschale und Häufigkeiten je Leistung (Beispiel-Layout: Rechnungsstil mit rotem Kopf).
