@@ -27,3 +27,6 @@
 ## Scout 19.11.2026
 - **Spur (Akquise):** Hausverwaltungen/Firmen in Aachen suchen per Stellenanzeige Hausmeister mit Garten- und Winterdienst (z. B. „Erste Hausverwaltung“ – Hausmeister/Haustechniker; FM-Allservice – Teilzeit-Hausmeister Treppenhaus/Garten). Idee: statt Festanstellung den externen Objektservice anbieten (Anruf oder Brief, keine Werbe-Mail). Quelle: Stellenportale (Arbeitsagentur/StepStone).
 - Geprüft, nicht passend: mags Mönchengladbach „RV Baumpflege 2027“ (Frist 17.12.2026, Spezial-Baumpflege mit Fachnachweisen); „Winterdienst 2026-2027“ Stolberg (Los-ID 3180170, vermutlich abgelaufen); Friedhofspflege MG (Angaben veraltet).
+
+## Scout 23.11.2026
+- Keine neuen passenden Ausschreibungen oder Gesuche gefunden (TED/Vergabe Kreis Düren, Aachen, Heinsberg, MG; Kleinanzeigen Winterdienst). Merzenich Grünpflege 2025/2027 bereits vergeben.
