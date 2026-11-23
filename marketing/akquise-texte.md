@@ -1,0 +1,50 @@
+# Akquise-Texte (Stand 23.11.2026)
+
+## Google-Bewertung erbitten (WhatsApp/SMS)
+Direktlink zum Bewerten: https://search.google.com/local/writereview?placeid=ChIJa7bdtl4Bpy4Rbkde75itTR8
+Profil: https://maps.google.com/maps?cid=2255649860745054062
+
+**Privatkunde:**
+Hallo [Name], vielen Dank nochmal für den Auftrag! Wir sind ein junger Betrieb aus Jülich und freuen uns sehr über eine kurze Google-Bewertung – das hilft uns enorm. Hier geht's direkt dazu (dauert 1 Minute):
+https://search.google.com/local/writereview?placeid=ChIJa7bdtl4Bpy4Rbkde75itTR8
+Viele Grüße, Jan-Luca Aldermann – Objektservice Aldermann
+
+**Firma/Hausverwaltung:**
+Guten Tag, vielen Dank für die gute Zusammenarbeit. Wenn Sie mit unserer Arbeit zufrieden sind, würden wir uns sehr über eine kurze Google-Bewertung freuen. Direkt hier: https://search.google.com/local/writereview?placeid=ChIJa7bdtl4Bpy4Rbkde75itTR8
+Mit freundlichen Grüßen, Jan-Luca Aldermann, Objektservice Aldermann
+
+## Kleinanzeigen (Kategorie Dienstleistungen › Haus & Garten), keine Preise nötig
+
+### 1. Hausmeisterservice & Objektbetreuung
+**Titel:** Hausmeisterservice Jülich, Düren, Aachen – fester Ansprechpartner
+Sie suchen jemanden, der sich zuverlässig um Ihr Haus kümmert? Wir übernehmen Hausmeisterdienste für Mehrfamilienhäuser, Eigentümergemeinschaften, Vermieter und Privathaushalte:
+- Treppenhausreinigung, Mülltonnendienst
+- Kontrollgänge und kleine Reparaturen
+- Rasen, Hecke, Beete, Laub
+- Winterdienst
+Auf Wunsch zum festen Monatspreis – ohne Überraschungen. Gelernter Schreiner, Betrieb aus Jülich.
+Rufen Sie an oder schreiben Sie per WhatsApp: 0176 23751407
+www.objektservicealdermann.com
+
+### 2. Heckenschnitt & Gartenpflege
+**Titel:** Heckenschnitt & Gartenpflege – auch einmalig, inkl. Entsorgung
+Hecke zu hoch, Garten wächst Ihnen über den Kopf? Wir schneiden Hecken in Form, mähen Rasen, pflegen Beete und nehmen den Grünschnitt direkt mit. Auch kräftiger Rückschnitt (Oktober bis Februar erlaubt).
+Einmalig oder regelmäßig – wir schauen es uns kostenlos vor Ort an.
+Jülich, Kreis Düren, Aachen und Umgebung. 0176 23751407 (auch WhatsApp)
+
+### 3. Winterdienst
+**Titel:** Winterdienst Jülich & Umgebung – Räumpflicht abgeben
+Wer räumt bei Ihnen um 7 Uhr den Gehweg? Wir übernehmen Räumen und Streuen für Wohnhäuser, Läden, Praxen und Wohnanlagen – Sie zahlen nur, wenn wir wirklich im Einsatz waren. Kein Grundpreis, endet am 31. März von selbst.
+Jetzt Platz in der Tour sichern: 0176 23751407 (auch WhatsApp)
+
+### 4. Zaun, Tor & Montage
+**Titel:** Zaunmontage & Reparaturen – Jägerzaun, Holzzaun, Stabgitter
+Alter Zaun schief oder morsch? Wir bauen ab, entsorgen und setzen den neuen Zaun mit Tor – sauber in Flucht und Höhe. Außerdem: Möbel- und Küchenmontage, klemmende Türen, kleine Reparaturen rund ums Haus. Gelernter Schreiner aus Jülich.
+Kostenlose Besichtigung: 0176 23751407 (auch WhatsApp)
+
+## Telefon-Leitfaden Nachfass-Anruf Hausverwaltungen
+1. „Guten Tag, Aldermann vom Objektservice Aldermann aus Jülich. Ich hatte Ihnen letzte Woche einen Brief geschickt – Hausmeister- und Gartenservice mit fester Monatspauschale. Sind Sie die richtige Ansprechperson dafür?“
+2. „Haben Sie aktuell Objekte, bei denen der Hausmeister oder die Gartenpflege nicht so läuft, wie Sie sich das wünschen – oder wo gerade jemand fehlt, z. B. beim Winterdienst?“
+3. Ja → „Darf ich mir das Objekt kostenlos ansehen? Sie bekommen dann ein Angebot je Haus mit fester Monatspauschale.“ Termin + Adresse notieren.
+   Nein → „Verstehe. Darf ich mich im Frühjahr zur Gartensaison noch einmal melden?“ / „Wer wäre denn bei Ihnen dafür zuständig?“
+Immer: Namen der Ansprechperson notieren, E-Mail für Unterlagen erfragen (dann ist eine Mail erlaubt).
