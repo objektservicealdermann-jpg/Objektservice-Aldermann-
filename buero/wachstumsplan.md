@@ -25,3 +25,4 @@ Ziel: genug feste Arbeit, um Mitarbeiter einzustellen, die auf der Baustelle arb
 
 ## Ziel: 10.000 € netto Umsatz/Monat (gesetzt 20.11.2026)
 - Stand 20.11.2026: feste Pauschalen beauftragt ca. 740 €/Monat (Jülich, ab 12/2026 bzw. 02/2027); in Aussicht ca. 675–870 € (Aachen) und 1.878–2.504 € (Rahmenvertrag Stammkunde, ab 01/2027).
+- 23.11.2026 (Wochenstart): Feste Pflegeobjekte 2 beauftragt (ca. 740 €/Monat, Start 01.12.2026 und 01.02.2027). Offen: Vergleichsangebot Aachen (ca. 675 €/Monat, Entscheidung heute erwartet), Rahmenvertrag Stammkunde (1.878–2.504 €/Monat ab 01/2027), Einzelauftrag Zaun (ca. 4.760 € netto). Briefe an Hausverwaltungen: 32 verschickt (ca. 20.11.), Nachfass-Anrufe ab dieser Woche. Instagram: 1 Beitrag (Zaunmontage) am 21.11. veröffentlicht. Google-Bewertungen: 6 (5,0) – Stand bitte bestätigen.
