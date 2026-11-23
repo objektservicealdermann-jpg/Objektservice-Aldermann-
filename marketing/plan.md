@@ -21,3 +21,5 @@ Grenzen: keine Spam-Mails (UWG §7), keine gekauften/gefälschten Bewertungen, k
 
 ## Verlauf
 - 23.11.2026: Kleinanzeigen online: Heckenschnitt & Gartenpflege, Winterdienst (Bilder mit Logo im Querformat 1200x900). Noch offen: Hausmeisterservice, Zaun/Montage.
+- 23.11.2026: Google-Ads-Suchkampagne gestartet (5 €/Tag, Winterdienst + Hausmeisterservice, 20 km um Jülich). Erste Auswertung am 01.12.2026.
+- 23.11.2026: SEO: Titel/Beschreibungen gekürzt, H1 mit Leistung+Ort, Preise von der Website entfernt.
