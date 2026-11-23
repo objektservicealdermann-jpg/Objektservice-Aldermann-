@@ -36,7 +36,7 @@ Alle öffentlichen Dateien liegen im Ordner `public/` (nur dieser Ordner geht on
 - `impressum/`, `datenschutz/`, `404.html`
 - `css/style.css`, `js/main.js`, `img/`, `video/`, `sitemap.xml`, `robots.txt`, `_headers`
 - Kopf- und Fußbereich sind in jeder HTML-Datei enthalten – Änderungen dort auf allen Seiten nachziehen.
-- Keine externen Schriften, Skripte, Cookies oder Tracking (Datenschutz). Neue Dienste immer in `datenschutz/` ergänzen.
+- Keine externen Schriften, Skripte oder Cookies (Datenschutz). Einzige Ausnahme seit 23.11.2026 (Inhaber-OK): Besucherstatistik PostHog cookieless (EU, Projekt 364742, Bibliothek selbst gehostet in `js/vendor/posthog.js`, Einbindung `js/stats.js`, zählt Seitenaufrufe + Klicks Anrufen/WhatsApp/E-Mail, steht in `datenschutz/` Abschnitt 4). Keine Session-Aufnahmen/Heatmaps/Autocapture einschalten. Neue Dienste immer in `datenschutz/` ergänzen.
 - Nach Änderungen `sitemap.xml` (lastmod) aktualisieren.
 
 ## Veröffentlichung & Technik
