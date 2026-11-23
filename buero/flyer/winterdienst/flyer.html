@@ -1,0 +1,71 @@
+<!doctype html><meta charset="utf-8">
+<style>
+/* DIN lang 99x210 mm + 2 mm Beschnitt = 103x214 mm; Sicherheitsabstand 5 mm */
+@page{size:103mm 214mm;margin:0}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Inter,Arial,sans-serif;color:#141414}
+.p{width:103mm;height:214mm;position:relative;overflow:hidden;page-break-after:always;background:#fff}
+/* Vorderseite – weiß und schlicht wie die Visitenkarte */
+.f{background:#fff;color:#141414}
+.f .logo{position:absolute;top:12mm;left:50%;transform:translateX(-50%);width:66mm}
+.f .line{position:absolute;top:48mm;left:8mm;right:8mm;height:.6mm;background:#d71920}
+.f .k{position:absolute;top:56mm;left:8mm;font-size:9pt;font-weight:800;letter-spacing:1.4px;text-transform:uppercase;color:#d71920}
+.f h1{position:absolute;top:62mm;left:8mm;right:8mm;font-size:26pt;line-height:1.08;font-weight:800;letter-spacing:-.4px}
+.f h1 span{color:#d71920}
+.f .sub{position:absolute;top:92mm;left:8mm;right:8mm;font-size:10.5pt;line-height:1.45;color:#3a3a3a}
+.f .pts{position:absolute;top:114mm;left:8mm;right:8mm;list-style:none}
+.f .pts li{font-size:11pt;font-weight:700;padding:1.4mm 0 1.4mm 7mm;position:relative}
+.f .pts li:before{content:"";position:absolute;left:0;top:2.8mm;width:4mm;height:2.2mm;border-left:2px solid #d71920;border-bottom:2px solid #d71920;transform:rotate(-45deg)}
+.f .flake{position:absolute;right:-6mm;top:104mm;width:40mm;opacity:.08}
+.f .call{position:absolute;left:0;right:0;bottom:0;height:34mm;background:#0b0b0c;color:#fff;text-align:center;padding-top:6mm;border-top:2.2mm solid #d71920}
+.f .call .t{font-size:8.5pt;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;color:#ff6a6f}
+.f .call .tel{font-size:23pt;font-weight:800;letter-spacing:.4px;margin-top:1mm}
+.f .call .w{font-size:9.5pt;color:#ddd;margin-top:.6mm}
+/* Rückseite */
+.b .top{position:absolute;top:0;left:0;right:0;height:24mm;background:#0b0b0c;border-bottom:2.2mm solid #d71920}
+.b .top h2{position:absolute;top:8.5mm;left:7mm;right:7mm;color:#fff;font-size:15pt;font-weight:800}
+.b .blk{position:absolute;left:7mm;right:7mm}
+.b h3{font-size:11pt;font-weight:800;margin-bottom:1mm}
+.b p,.b li{font-size:9pt;line-height:1.42;color:#2a2a2a}
+.b .row{border-left:1.2mm solid #d71920;padding:.4mm 0 .4mm 3.5mm;margin-bottom:3.4mm}
+.b ol{list-style:none;counter-reset:n}
+.b ol li{position:relative;padding:0 0 2.4mm 8.5mm}
+.b ol li:before{counter-increment:n;content:counter(n);position:absolute;left:0;top:-.3mm;width:5.6mm;height:5.6mm;border-radius:50%;background:#d71920;color:#fff;font-weight:800;font-size:8.5pt;display:grid;place-items:center}
+.b .note{background:#f3f4f6;border-radius:2mm;padding:3mm 3.5mm}
+.b .foot{position:absolute;left:0;right:0;bottom:0;height:40mm;background:#f2f0ec;padding:5mm 7mm}
+.b .foot .tel{font-size:17pt;font-weight:800;color:#d71920}
+.b .foot .s{font-size:8.6pt;color:#333;line-height:1.5;margin-top:1mm}
+.b .foot .stars{color:#e0a100;font-size:10pt;letter-spacing:.6px}
+.b .qr{position:absolute;right:7mm;bottom:7mm;width:25mm;text-align:center;font-size:7pt;color:#555}
+.b .qr img{width:25mm;height:25mm;background:#fff;padding:1.2mm;border-radius:1mm}
+</style>
+<div class="p f">
+  <img class="logo" src="logo.png" alt="">
+  <div class="line"></div>
+  <div class="k">Winterdienst · Jülich &amp; Umgebung</div>
+  <h1>Ihr Gehweg ist<br><span>vor 7 Uhr frei.</span></h1>
+  <p class="sub">Hat es nachts geschneit oder gefroren, räumen und streuen wir Ihren Weg, bevor die ersten Leute unterwegs sind.</p>
+  <ul class="pts"><li>Sie zahlen nur Einsätze</li><li>Kein Grundpreis, keine Pauschale</li><li>Endet am 31. März von selbst</li><li>Für Wohnhäuser, Läden und Praxen</li></ul>
+  <div class="call"><div class="t">Platz in der Tour sichern</div><div class="tel">0176 23751407</div><div class="w">Anruf oder WhatsApp</div></div>
+</div>
+<div class="p b">
+  <div class="top"><h2>So läuft der Winterdienst</h2></div>
+  <div class="blk" style="top:31mm">
+    <div class="row"><h3>Was wir machen</h3><p>Schnee räumen und streuen auf dem Weg von der Haustür bzw. vom Eingang bis zur Straße. Auf Wunsch auch Zugang zu den Mülltonnen.</p></div>
+    <div class="row"><h3>Wann wir kommen</h3><p>Werktags vor 7 Uhr, sonn- und feiertags vor 9 Uhr, so wie es die Räumpflicht verlangt.</p></div>
+    <div class="row"><h3>Was es kostet</h3><p>Ein fester Preis pro Einsatz, den Sie vorher schriftlich bekommen. Größere Flächen wie Hof, Parkplatz oder Zufahrt schauen wir uns vorher kostenlos an.</p></div>
+  </div>
+  <div class="blk" style="top:104mm">
+    <h3 style="margin-bottom:2.5mm">In drei Schritten</h3>
+    <ol><li>Sie rufen an oder schreiben per WhatsApp.</li><li>Wir schauen uns den Weg kurz an und nennen Ihnen den Preis.</li><li>Ab dem nächsten Schnee sind Sie in unserer Tour.</li></ol>
+  </div>
+  <div class="blk note" style="top:140mm">
+    <h3>Warum abgeben?</h3>
+    <p>Rutscht jemand auf einem nicht geräumten Weg aus, haftet der Eigentümer. Mit festem Winterdienst müssen Sie morgens nicht selbst raus.</p>
+  </div>
+  <div class="foot">
+    <div class="tel">0176 23751407</div>
+    <div class="s">Anruf oder WhatsApp<br>objektservicealdermann.com<br><span class="stars">★★★★★</span> 5,0 bei Google<br>Objektservice Aldermann · Jülich</div>
+    <div class="qr"><img src="qr.svg" alt="">Zum Winterdienst</div>
+  </div>
+</div>
