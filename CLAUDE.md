@@ -13,7 +13,7 @@ Kommunikation mit dem Inhaber immer auf Deutsch, einfach und ohne Fachjargon. Er
 - **Leistungen:** Hausmeisterservice/Objektbetreuung, Garten- und Grünpflege (Rasen, Hecken-/Formschnitt), Kleinreparaturen, Möbel-/Küchenmontage, Schreiner- und Montagearbeiten
 - **Partner:** fester Garten- und Landschaftsbaubetrieb für größere Arbeiten
 - **Ziel:** mehr Pflegeobjekte mit fester Monatspauschale (planbares Einkommen), Zielgruppe v. a. Hausverwaltungen, WEGs, Vermieter, Gewerbe
-- **Steuer:** umsatzsteuerpflichtig. USt-IdNr. (zugleich W-IdNr.): **DE465887336** (seit 19.10.2026) – steht im Impressum und gehört auf jede Rechnung. Steuernummer und persönliche Steuer-ID nie veröffentlichen.
+- **Steuer:** Status UNKLAR (Inhaber 23.11.2026: „eigentlich nicht umsatzsteuerpflichtig“, weist aber auf Rechnungen 19 % USt aus) – Kleinunternehmer oder Regelbesteuerung mit Inhaber klären (Bescheid/Fragebogen Finanzamt). USt-IdNr. (zugleich W-IdNr.): **DE465887336** (seit 19.10.2026) – steht im Impressum und gehört auf jede Rechnung. Steuernummer und persönliche Steuer-ID nie veröffentlichen.
 
 ## Wichtige Regeln
 - Bestandskunden (z. B. Hotels) **nicht** als Referenz auf der Website oder in Werbung nennen.
