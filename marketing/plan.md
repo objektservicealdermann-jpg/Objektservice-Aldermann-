@@ -18,3 +18,6 @@ Grenzen: keine Spam-Mails (UWG §7), keine gekauften/gefälschten Bewertungen, k
 5. Lokale Facebook-Gruppen (Jülich/Düren) – Profil/Seite + gelegentliche hilfreiche Beiträge
 6. Empfehlungen: Partnerbetrieb, Makler, Hausverwaltungen; Dankeschön für Weiterempfehlung
 7. Offline: Fahrzeugbeschriftung, Flyer/Türhänger in Neubau- und Reihenhaussiedlungen (Saison: Gartenpflege ab Feb./März)
+
+## Verlauf
+- 23.11.2026: Kleinanzeigen online: Heckenschnitt & Gartenpflege, Winterdienst (Bilder mit Logo im Querformat 1200x900). Noch offen: Hausmeisterservice, Zaun/Montage.

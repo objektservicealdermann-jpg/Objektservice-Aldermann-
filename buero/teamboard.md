@@ -18,6 +18,7 @@ Format: `JJJJ-MM-TT · von → an · Aufgabe/Info · Status (offen/erledigt)`
 - 2026-11-21 · Social → Inhaber · Hecken-Beitrag + 2 Stories (public/social/post-heckenschnitt-winter.jpg, story-maengel.jpg, story-ansprechpartner.jpg) · offen
 
 ## Aufgaben
-- 2026-11-23 · Marketing-Chef → Inhaber · 4 Kleinanzeigen einstellen (Texte marketing/akquise-texte.md), E-Mail-Benachrichtigung in der App einschalten · offen
+- 2026-11-23 · Marketing-Chef → Inhaber · Kleinanzeigen Heckenschnitt + Winterdienst online (23.11.); offen: Hausmeisterservice + Zaun/Montage einstellen; E-Mail-Benachrichtigung in der App prüfen · teilweise erledigt
+- 2026-11-23 · → Kleinanzeigen-Helfer · Anzeigen Heckenschnitt + Winterdienst (36 € VB, Wohnhaus 35,70 € brutto/Einsatz) laufen seit 23.11. – Anfragen beantworten, montags Pflege · offen
 - 2026-11-23 · Marketing-Chef → Inhaber · Nachfass-Anrufe Hausverwaltungen (Anrufliste-Artefakt) ab Mi 25.11. · offen
 - 2026-11-23 · Marketing-Chef → Video-Creator · Stil-Beispiele vom Inhaber abwarten; bis dahin Foto-Reels aus echten Bildern (marketing/reel_foto.py) · offen
