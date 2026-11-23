@@ -22,6 +22,8 @@ Kommunikation mit dem Inhaber immer auf Deutsch, einfach und ohne Fachjargon. Er
 - Anrede an Firmen (E-Mails, Briefe, Angebote), vor allem beim ersten Kontakt und wenn mehrere Leute mitlesen: „Sehr geehrtes Team der [Firmenname],“ bzw. „Sehr geehrtes Team von [Firmenname],“ – damit sich alle angesprochen fühlen und sich niemand übergangen fühlt; kein „Damen und Herren“. Persönliche Anrede nur, wenn wir eine Person gezielt anschreiben bzw. schon im persönlichen Kontakt sind (Wunsch des Inhabers, 19.11.2026).
 - Keine unaufgeforderten Werbe-E-Mails an Firmen (UWG § 7); Akquise per Brief, Telefon, LinkedIn oder persönlich.
 - Fotos vor dem Einbau verkleinern und Metadaten (GPS) entfernen.
+- KEINE Preise auf der Website (Inhaber 23.11.2026) – Preise nur in Angeboten, Auftragsblättern und ggf. Kleinanzeigen. Auch nicht in strukturierten Daten/FAQ.
+- SEO/Website: Claude darf Website-Änderungen selbstständig umsetzen und live stellen, muss den Inhaber aber jedes Mal kurz informieren, was geändert wurde (Inhaber 23.11.2026). Tabu ohne Rückfrage: Impressum, Datenschutz, rechtliche Texte; nie Bestandskunden nennen, keine erfundenen Zahlen/Bewertungen. Backup = Git-Historie.
 
 ## Website-Aufbau
 Alle öffentlichen Dateien liegen im Ordner `public/` (nur dieser Ordner geht online).
@@ -57,7 +59,7 @@ Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: al
 - Kunden siezen („Sie“). Unterschrift immer: „Ihr Team von Objektservice Aldermann“ + 0176 23751407. Nie den Namen des Inhabers als Unterschrift.
 - Wenige Hashtags (max. ca. 8), ortsbezogen.
 - Reels: KEINE gezeichneten Strichmännchen-Videos mehr ohne vorherige Absprache (kamen nicht an, 19.11.2026); nie „Schreiner-Modus“ o. Ä. Vor neuen Reels Stil/Beispiel vom Inhaber holen, echte Aufnahmen bevorzugen.
-- KEINE Preise auf Instagram (Beiträge, Stories, Reels) – Preise nur auf Website, Angeboten, Auftragsblättern (Wunsch des Inhabers, 19.11.2026).
+- KEINE Preise auf Instagram (Beiträge, Stories, Reels) und auf der Website – Preise nur in Angeboten und Auftragsblättern (Wunsch des Inhabers, 19.11./23.11.2026).
 - Stories mit Link: Windsor/API kann keine Link-Sticker setzen. Story-Bild dem Inhaber schicken, er postet in der Instagram-App mit Link-Sticker auf https://www.objektservicealdermann.com/...
 
 ## Ziel (Inhaber, 20.11.2026)
