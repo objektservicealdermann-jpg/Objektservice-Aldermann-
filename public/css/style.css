@@ -212,3 +212,31 @@ form.anfrage{background:#fff;border:1px solid var(--line);border-radius:var(--ra
 .review .stars{color:#f5b301;font-size:20px;letter-spacing:2px}
 .review blockquote{margin:10px 0 16px;font-size:16px;line-height:1.6}
 .review figcaption{margin-top:auto;color:var(--muted);font-size:14px}
+
+/* Lesbarkeit & Stimmigkeit (23.11.2026): größere Schrift, mehr Kontrast, größere Knöpfe – auch für ältere Besucher */
+:root{--muted:#43474d}
+body{font-size:18px;line-height:1.65}
+.menu a{font-size:16px}
+.btn{font-size:17px;padding:15px 24px;min-height:52px}
+.eyebrow,.kicker{font-size:14px}
+.section-head p,.page-head p{font-size:19px}
+.card p,.card li,.benefit p,.steps p{font-size:17px}
+.gallery figcaption{font-size:16px}.gallery figcaption strong{font-size:17px}
+.review blockquote{font-size:17px}.review figcaption{font-size:15px}
+.faq summary{font-size:19px}
+.field label{font-size:16px}.field input,.field select,.field textarea{font-size:17px}
+.hint{font-size:15px}.crumbs{font-size:15px}
+.site-footer{font-size:16px}
+.ba figcaption{font-size:14px}
+.trust{font-size:16px}
+/* Video-Block */
+.video-split{display:grid;grid-template-columns:minmax(0,340px) 1fr;gap:40px;align-items:center;margin:0 0 40px}
+.video-split video{width:100%;aspect-ratio:9/16;object-fit:cover;border-radius:16px;background:#111;box-shadow:var(--shadow)}
+.video-split h3{font-size:26px;line-height:1.25;margin:0 0 10px}
+.video-split p{color:var(--muted);margin:0 0 18px}
+@media (max-width:640px){
+  body{font-size:17px}
+  .video-split{grid-template-columns:1fr;gap:22px}
+  .video-split video{max-width:300px;margin:0 auto}
+  .callbar a{font-size:17px;padding:17px 8px}
+}
