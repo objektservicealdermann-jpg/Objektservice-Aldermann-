@@ -26,3 +26,8 @@ Format: `JJJJ-MM-TT · Helfer · Erkenntnis`
 - 20.11.2026: Zaun-Angebot nach Video/Fotos vom Inhaber erstellt. Erst Stückliste klären (Elemente, Doppelpfosten, Tor), dann Materialpreise beim Baumarkt prüfen (OBI-Seite abrufbar, Bauhaus/Hornbach blocken). Rustikale T&J-Elemente nehmen, nicht die dünnen Billig-Elemente. Pfosten bei niedrigem Jägerzaun einschlagen statt einbetonieren.
 - 23.11.2026: Neuer Helfer „Kleinanzeigen-Betreuung“ (Mo–Sa 12:41/18:41): liest Kleinanzeigen-Benachrichtigungen in Gmail und schreibt Antworten zum Kopieren – kein Zugang zum Konto selbst. Instagram-Bilder jetzt mit großem Logo oben mittig ohne Hintergrund (marketing/insta_bild.py), gefiel dem Inhaber besser.
 - 23.11.2026: Scroll-Geschichte mit vielen Effekten (wanderndes Logo, Sticky-Kapitel, Clip-Path, Parallax) auf der Startseite ging live und wurde vom Inhaber sofort zurückgenommen: „Seite hängt total“. Lehre: Schwere Scroll-Effekte nie direkt live stellen, erst auf echtem Handy testen lassen (Vorschau-Link), Performance vor Effekte. Bild und Text müssen immer zusammenpassen.
+
+## 23.11.2026 – Besucherstatistik PostHog
+- PostHog nur cookieless (cookieless_mode always, Projekt-Einstellung „stateful“), Bibliothek selbst hosten (keine externen Skripte), erst nach dem Seitenladen starten (Seite bleibt schnell).
+- Datenschutz-Änderungen nur mit OK des Inhabers (hier erteilt). Für Tests im Headless-Browser filtert PostHog Bots heraus – das ist kein Fehler auf der Website.
+- Neue Werkzeuge: Firecrawl (Webseiten auslesen, z. B. eBay/Amazon-Gebühren), PostHog (Statistik).
