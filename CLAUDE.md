@@ -95,7 +95,7 @@ Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: al
 - Texte (Bewertungsbitte mit Direktlink, Kleinanzeigen, Telefon-Leitfaden): `marketing/akquise-texte.md`. Google-Bewertungslink: https://search.google.com/local/writereview?placeid=ChIJa7bdtl4Bpy4Rbkde75itTR8
 
 ## Google Ads (seit 23.11.2026)
-- Konto 351-164-8311 (Windsor connector google_ads). Kampagne „Aldermann – Jülich & Umgebung (Suche)“ id 24532303428: 5 €/Tag (vom Inhaber freigegeben, jederzeit kündbar), Klicks maximieren, max. 2 € pro Klick, 20 km um Jülich, Mo–Sa 7–19 Uhr, Deutsch. Anzeigengruppen Winterdienst (204797858280) und Hausmeisterservice (201674650505), Anruf-Erweiterung, keine Preise. Budget nie ohne ausdrückliches OK erhöhen; ab Mitte Februar Heckenschnitt/Gartenpflege vorschlagen.
+- Konto 351-164-8311 (Windsor connector google_ads). Kampagne „Aldermann – Jülich & Umgebung (Suche)“ id 24532303428: 5 €/Tag (vom Inhaber freigegeben, jederzeit kündbar), Klicks maximieren, max. 2 € pro Klick, 20 km um Jülich, Mo–Sa 7–19 Uhr, Deutsch. Anzeigengruppen Winterdienst (204797858280), Hausmeisterservice (201674650505) und Kleine Aufträge (205429430594, Montage/Reparatur/Laub/Entrümpelung, seit 24.11.2026), Anruf-Erweiterung, keine Preise. Automatische Kampagne „Performance Max-1“ (24474339346) am 24.11.2026 pausiert. Budget nie ohne ausdrückliches OK erhöhen; ab Mitte Februar Heckenschnitt/Gartenpflege vorschlagen.
 
 ## Rechnungen
 - Generator: `buero/rechnungen/rechnung-erstellen.py <daten.json> <ausgabe.html> buero/rechnungen/logo.png`, danach mit Chromium als A4-PDF drucken (printBackground, Ränder 0). Layout = Vorlage des Inhabers (roter Kopf, Meta-Leiste, VON/AN/Zu bezahlen, Ausführungsort, Positionen, Summen, Bankverbindung).
