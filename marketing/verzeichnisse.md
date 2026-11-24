@@ -22,7 +22,7 @@ Objektservice Aldermann ist Ihr Hausmeisterservice aus Jülich. Wir betreuen Woh
 ## Verzeichnisse (alle kostenlos)
 1. Gelbe Seiten / Das Örtliche / Das Telefonbuch – ein Eintrag für alle drei: Link „Kostenlos eintragen lassen“ aus der E-Mail von Gelbe Seiten (KI-Sichtbarkeits-Check, 24.11.2026). NUR den kostenlosen Grundeintrag – keine Zusatzpakete kaufen, auch nicht am Telefon.
 2. Bing Places: https://www.bingplaces.com – „Aus Google Unternehmensprofil importieren“ wählen, dann ist alles automatisch gleich.
-3. Apple Business Connect: https://businessconnect.apple.com – mit Apple-ID anmelden, Unternehmen suchen/anlegen, Angaben von oben einfügen (für Apple Karten und Siri).
+3. Apple Business Connect: vom Inhaber bewusst ausgelassen (24.11.2026).
 4. Später (optional): 11880.com, Cylex, Yelp – gleiche Angaben.
 
 Stand: 24.11.2026
