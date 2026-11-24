@@ -42,6 +42,33 @@ Jetzt Platz in der Tour sichern: 0176 23751407 (auch WhatsApp)
 Alter Zaun schief oder morsch? Wir bauen ab, entsorgen und setzen den neuen Zaun mit Tor – sauber in Flucht und Höhe. Außerdem: Möbel- und Küchenmontage, klemmende Türen, kleine Reparaturen rund ums Haus. Gelernter Schreiner aus Jülich.
 Kostenlose Besichtigung: 0176 23751407 (auch WhatsApp)
 
+### 5. Möbel- & Küchenmontage (neu 24.11.2026)
+**Titel:** Möbelmontage & Küchenaufbau vom Schreiner – Jülich & Umgebung
+Sie haben neue Möbel oder eine Küche gekauft und keine Zeit oder Lust zum Aufbauen? Wir bauen Schränke, Betten, Regale und Küchen sauber auf, richten Türen und Schubladen aus und nehmen die Verpackung auf Wunsch mit. Gelernter Schreiner, ordentliche Arbeit, kurzfristige Termine.
+Jülich, Kreis Düren, Aachen, Heinsberg. Schreiben Sie uns kurz, was aufgebaut werden soll (gern mit Foto oder Link zum Möbel).
+Objektservice Aldermann · 0176 23751407 (auch WhatsApp)
+**Foto:** public/img/moebel-reparatur.jpg
+
+### 6. Kleinreparaturen im Haus (neu 24.11.2026)
+**Titel:** Kleinreparaturen – Türen, Schränke, Leisten, Griffe
+Die Tür schleift, die Schranktür hängt, eine Leiste ist lose? Solche kleinen Sachen bleiben oft monatelang liegen. Wir kommen vorbei und erledigen mehrere Kleinigkeiten in einem Termin. Gelernter Schreiner aus Jülich.
+Schicken Sie uns einfach ein Foto per WhatsApp – wir melden uns schnell.
+Objektservice Aldermann · 0176 23751407
+**Foto:** public/img/innenausbau-tuerrahmen.jpg
+
+### 7. Laub & Garten winterfest (neu 24.11.2026, bis Mitte Dezember)
+**Titel:** Laub entfernen & Garten winterfest machen – Jülich & Umgebung
+Laub auf Rasen, Wegen und in Beeten? Wir rechen, blasen und nehmen alles mit, schneiden Stauden zurück und machen den Garten winterfest. Auch für Vermieter und Mehrfamilienhäuser.
+Kurzfristige Termine. Foto per WhatsApp genügt für eine erste Einschätzung.
+Objektservice Aldermann · 0176 23751407
+**Foto:** public/img/innenhof-gartenpflege.jpg
+
+### 8. Entrümpelung (neu 24.11.2026)
+**Titel:** Entrümpelung Keller, Dachboden, Büro – mit Abtransport
+Keller voll, Dachboden zugestellt oder ein Raum muss leer werden? Wir räumen aus, trennen und bringen alles zur Entsorgung. Besenrein übergeben. Kostenlose Besichtigung vor Ort.
+Objektservice Aldermann · 0176 23751407 (auch WhatsApp)
+**Foto:** public/social/post-entruempelung-vorher-nachher.jpg
+
 ## Telefon-Leitfaden Nachfass-Anruf Hausverwaltungen
 1. „Guten Tag, Aldermann vom Objektservice Aldermann aus Jülich. Ich hatte Ihnen letzte Woche einen Brief geschickt – Hausmeister- und Gartenservice mit fester Monatspauschale. Sind Sie die richtige Ansprechperson dafür?“
 2. „Haben Sie aktuell Objekte, bei denen der Hausmeister oder die Gartenpflege nicht so läuft, wie Sie sich das wünschen – oder wo gerade jemand fehlt, z. B. beim Winterdienst?“
