@@ -84,6 +84,9 @@ Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: al
 - Objekt Aachen (Angebot AGB-0105): alle Fraktionen alle 14 Tage donnerstags (Papier 4-wöchentlich), Sondertermin Mi 23.12.2026 – Erinnerungen anlegen, sobald der Auftrag unterschrieben ist.
 - Objekte Jülich (AGB-0102/0103, beauftragt): Abfuhrbezirk 3 (Kalender Juli–Dez. 2026 von der Hausverwaltung per Mail). Erinnerungen für Dez. 2026 angelegt (14 Stück, 16:47 raus / 12:13 rein). Kalender 2027 Ende Dezember bei der Hausverwaltung anfordern und Erinnerungen ergänzen.
 
+## Kommandozentrale
+- Tagesübersicht für den Inhaber (Termine, Aufgaben, offene Angebote, Objekte, Weg zum 10.000-€-Ziel, Zahlen): https://claude.ai/artifact/5LHP11zr5rpgecwm4TUURj – Daten per ArtifactData (data/cc/termine, aufgaben, angebote, objekte, kennzahlen). Täglich 7:41 Uhr automatisch aktualisiert; bei neuen Angeboten/Zusagen/Terminen sofort nachtragen.
+
 ## Objektbuch
 - Digitales Objektbuch (Einsätze, Mängel, Reparaturen, Tonnen, Winterdienst, Notizen je Objekt): https://claude.ai/artifact/5v9gYnBV7pY4h31w4JtikS – Daten per ArtifactData (Sammlungen `objekte`, `eintraege`). Grundlage für Monatsberichte an Kunden. Sprachnachrichten/Fotos des Inhabers dort eintragen.
 
