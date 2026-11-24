@@ -26,3 +26,7 @@ Objektservice Aldermann ist Ihr Hausmeisterservice aus Jülich. Wir betreuen Woh
 4. Später (optional): 11880.com, Cylex, Yelp – gleiche Angaben.
 
 Stand: 24.11.2026
+
+## Status
+- 24.11.2026: Gelbe Seiten/Das Örtliche/Das Telefonbuch und Bing Places vom Inhaber eingetragen. Apple ausgelassen.
+- KI-Sichtbarkeits-Check (Gelbe Seiten) am 24.11.2026: 4/100, 0 von 30 Nennungen – Wiederholung ca. Ende Dezember zum Vergleich.
