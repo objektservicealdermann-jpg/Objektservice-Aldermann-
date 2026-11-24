@@ -26,7 +26,7 @@ Ihr Team von Objektservice Aldermann
 ---
 
 ## 2 – Reparatur & Montage vom Schreiner
-Status: offen
+Status: veröffentlicht am 24.11.2026
 Foto: innenausbau-tuerrahmen.jpg · Knopf: LEARN_MORE → https://www.objektservicealdermann.com/leistungen/reparatur-montage/
 
 Bei uns arbeitet ein gelernter Schreiner, und das merkt man bei vielen kleinen Arbeiten. Eine Tür, die klemmt, ein Scharnier, das ausgeleiert ist, ein neuer Schrank, der aufgebaut werden muss, oder eine Öffnung, die geschlossen werden soll: So etwas erledigen wir sauber und passgenau. Am einfachsten schicken Sie uns ein Foto per WhatsApp, dann können wir direkt sagen, was zu tun ist.

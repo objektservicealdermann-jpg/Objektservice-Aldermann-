@@ -35,3 +35,7 @@ Format: `JJJJ-MM-TT · Helfer · Erkenntnis`
 ## 24.11.2026 – Mehrere Häuser, ein Angebot?
 - Bei Anfragen für mehrere zusammenhängende Häuser vorab fragen, ob ein Gesamtangebot oder je Haus ein eigenes Angebot gewünscht ist. Wunsch des Kunden geht vor die Standardregel „je Haus ein Angebot“.
 - Briefe an Hausverwaltungen bringen Antworten per E-Mail – schnell (am selben Abend) antworten wirkt sehr gut.
+
+## 24.11.2026 – Google-Beitrag + Profilzahlen
+- Beitrag „Reparatur & Montage vom Schreiner“ veröffentlicht (Foto Türrahmen, Knopf Mehr erfahren).
+- Profil letzte 7 Tage: 12× gesehen, 2 Website-Klicks, 0 Anrufe (Vorwoche 16.–22.11.: 16× gesehen, 9 Website-Klicks). Google meldet mit 2–3 Tagen Verzug, daher noch nicht vergleichbar. Erkenntnis: Profil ist noch klein – Bewertungen und Verzeichniseinträge sind der wichtigste Hebel.
