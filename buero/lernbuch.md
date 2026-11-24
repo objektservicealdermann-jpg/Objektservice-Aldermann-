@@ -40,3 +40,4 @@ Format: `JJJJ-MM-TT · Helfer · Erkenntnis`
 - Beitrag „Reparatur & Montage vom Schreiner“ veröffentlicht (Foto Türrahmen, Knopf Mehr erfahren).
 - Profil letzte 7 Tage: 12× gesehen, 2 Website-Klicks, 0 Anrufe (Vorwoche 16.–22.11.: 16× gesehen, 9 Website-Klicks). Google meldet mit 2–3 Tagen Verzug, daher noch nicht vergleichbar. Erkenntnis: Profil ist noch klein – Bewertungen und Verzeichniseinträge sind der wichtigste Hebel.
 - 24.11.2026 · Video-Creator: Für echte Handyvideos gibt es jetzt marketing/reel_video.py (Clip zuschneiden auf 1080x1920, Logo oben, Texte aus JSON, Schlusskarte, eigene Musik, Originalton und Metadaten raus). Danach mit crf 25 nachkomprimieren, sonst wird die Datei ~36 MB groß.
+- 24.11.2026 · Kleinanzeigen: Es sind nur 2 Anzeigen gleichzeitig online möglich (Info Inhaber). Deshalb Leistungen in Kombi-Anzeigen bündeln und saisonal tauschen (Winter: Winterdienst + Kleine Aufträge; ab März: Garten/Hecke).

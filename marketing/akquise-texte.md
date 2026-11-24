@@ -69,6 +69,19 @@ Keller voll, Dachboden zugestellt oder ein Raum muss leer werden? Wir räumen au
 Objektservice Aldermann · 0176 23751407 (auch WhatsApp)
 **Foto:** public/social/post-entruempelung-vorher-nachher.jpg
 
+### 9. Kombi-Anzeige „Kleine Aufträge“ (neu 24.11.2026 – ersetzt im Winter die Heckenschnitt-Anzeige)
+Hinweis: Bei Kleinanzeigen sind nur 2 Anzeigen gleichzeitig online. Winter: Winterdienst + diese Kombi-Anzeige. Ab März: Heckenschnitt/Garten statt Winterdienst.
+**Titel:** Handwerker Jülich – Möbelmontage, Reparaturen, Laub, Entrümpelung
+Kleine Aufträge, schnell erledigt – vom gelernten Schreiner aus Jülich:
+- Möbel- und Küchenmontage (Schränke, Betten, Regale, Küchen)
+- Kleinreparaturen: Türen einstellen, Schranktüren, Leisten, Griffe
+- Laub entfernen und Garten winterfest machen
+- Entrümpelung von Keller, Dachboden oder Büro mit Abtransport
+Mehrere Kleinigkeiten gern in einem Termin. Kurzfristige Termine in Jülich, Kreis Düren, Aachen und Heinsberg.
+Schicken Sie einfach ein Foto per WhatsApp – wir melden uns schnell.
+Objektservice Aldermann · 0176 23751407
+**Fotos:** public/img/moebel-reparatur.jpg (Titelbild), public/img/innenausbau-tuerrahmen.jpg, public/img/innenhof-gartenpflege.jpg, public/social/post-entruempelung-vorher-nachher.jpg
+
 ## Telefon-Leitfaden Nachfass-Anruf Hausverwaltungen
 1. „Guten Tag, Aldermann vom Objektservice Aldermann aus Jülich. Ich hatte Ihnen letzte Woche einen Brief geschickt – Hausmeister- und Gartenservice mit fester Monatspauschale. Sind Sie die richtige Ansprechperson dafür?“
 2. „Haben Sie aktuell Objekte, bei denen der Hausmeister oder die Gartenpflege nicht so läuft, wie Sie sich das wünschen – oder wo gerade jemand fehlt, z. B. beim Winterdienst?“
