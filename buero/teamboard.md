@@ -15,6 +15,7 @@ Format: `JJJJ-MM-TT · von → an · Aufgabe/Info · Status (offen/erledigt)`
 
 ## Freigaben, die beim Inhaber liegen
 - 2026-11-23 · Video-Creator → Inhaber · Probe-Reel public/social/reel-foto-leistungen.mp4 · offen
+- 2026-11-24 · Video-Creator → Inhaber · Reel Formschnitt aus echtem Garten-Video (public/social/reel-formschnitt.mp4, 20 s) · offen
 - 2026-11-21 · Social → Inhaber · Hecken-Beitrag + 2 Stories (public/social/post-heckenschnitt-winter.jpg, story-maengel.jpg, story-ansprechpartner.jpg) · offen
 
 ## Aufgaben
@@ -25,3 +26,4 @@ Format: `JJJJ-MM-TT · von → an · Aufgabe/Info · Status (offen/erledigt)`
 
 - SEO-Check 24.11.2026: 2 dünne Seiten ergänzt (Reparatur & Montage: Türen/Zargen/Einbauten; Hausmeisterservice: So startet die Betreuung), Titel Gartenpflege gekürzt.
 - Youtilly-Scout 24.11.2026: keine neuen Mails/Ausschreibungen. Offen: Köln-Los (Frist 04.12.) wartet auf Anzahl Mieteinheiten + Preis-OK; Nachweise (Gewerbe-Zweitschrift beantragt, Haftpflicht) fehlen noch.
+- Video-Creator 24.11.2026: erstes Reel aus echter Handyaufnahme (Formschnitt-Hecken) mit neuem Skript marketing/reel_video.py geschnitten, wartet auf Freigabe. Stil-Beispiel des Inhabers liegt vor (Instagram-Reel vom 23.11.).
