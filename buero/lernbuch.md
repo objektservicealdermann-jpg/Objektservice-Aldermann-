@@ -31,3 +31,7 @@ Format: `JJJJ-MM-TT · Helfer · Erkenntnis`
 - PostHog nur cookieless (cookieless_mode always, Projekt-Einstellung „stateful“), Bibliothek selbst hosten (keine externen Skripte), erst nach dem Seitenladen starten (Seite bleibt schnell).
 - Datenschutz-Änderungen nur mit OK des Inhabers (hier erteilt). Für Tests im Headless-Browser filtert PostHog Bots heraus – das ist kein Fehler auf der Website.
 - Neue Werkzeuge: Firecrawl (Webseiten auslesen, z. B. eBay/Amazon-Gebühren), PostHog (Statistik).
+
+## 24.11.2026 – Mehrere Häuser, ein Angebot?
+- Bei Anfragen für mehrere zusammenhängende Häuser vorab fragen, ob ein Gesamtangebot oder je Haus ein eigenes Angebot gewünscht ist. Wunsch des Kunden geht vor die Standardregel „je Haus ein Angebot“.
+- Briefe an Hausverwaltungen bringen Antworten per E-Mail – schnell (am selben Abend) antworten wirkt sehr gut.
