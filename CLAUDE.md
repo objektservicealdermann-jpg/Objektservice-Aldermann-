@@ -93,8 +93,10 @@ Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: al
 ## Objektbuch
 - Digitales Objektbuch (Einsätze, Mängel, Reparaturen, Tonnen, Winterdienst, Notizen je Objekt): https://claude.ai/artifact/5v9gYnBV7pY4h31w4JtikS – Daten per ArtifactData (Sammlungen `objekte`, `eintraege`). Grundlage für Monatsberichte an Kunden. Sprachnachrichten/Fotos des Inhabers dort eintragen.
 
-## Ablage (Angebote & Rechnungen)
-- Private Ablage-Seite nach Kunde: https://claude.ai/artifact/NTKwHTu1YZKCLAVbra7dy3 (PDFs als Dateien der Seite, Quelle im Scratchpad `ablage/`). Jedes neue Angebot, jede neue Rechnung und jeden unterschriebenen Auftrag dort ergänzen. Kunden-PDFs nie ins Repo.
+## Rechnungsprogramm (Büro Aldermann)
+- Private Seite https://claude.ai/artifact/NTKwHTu1YZKCLAVbra7dy3 – Übersicht (offen/überfällig, Umsatz, feste Pauschalen), Rechnungen, Angebote, Kunden; PDFs werden in der Seite angezeigt (pdf.js) und können aufs Handy gesichert werden. Daten per ArtifactData: `data/buero/rechnungen` (nr, kunde, datum, faellig, netto, brutto, status offen/bezahlt, bezahlt_am, file, text, notiz) und `data/buero/angebote` (nr, kunde, datum, netto, art, status offen/angenommen/abgelehnt/abgelaufen/ersetzt, file, text). PDFs sind Dateien der Seite (`files/NN-….pdf`, Quelle Scratchpad `ablage/`).
+- Jede neue Rechnung/jedes neue Angebot SOFORT eintragen und das PDF als Seiten-Datei mitveröffentlichen; Zahlungseingänge/Zusagen nachtragen. Kunden-PDFs nie ins Repo.
+- Frühe Rechnungen (Mai–Aug 2026) hatten keine eindeutigen Nummern (2026001/2026002) – in der Liste nach Datum benannt.
 
 ## Akquise
 - Anrufliste Hausverwaltungen (Status/Notizen, db-Sammlung `anrufe`, Doc-ID = nr aus buero/hausverwaltungen.json): https://claude.ai/artifact/74sqdSFm1qDx98Tv7owhfv

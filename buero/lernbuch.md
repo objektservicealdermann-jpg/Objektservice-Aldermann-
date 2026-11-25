@@ -45,3 +45,4 @@ Format: `JJJJ-MM-TT · Helfer · Erkenntnis`
 
 ## 25.11.2026 – Ablage
 - Angebote/Rechnungen als private Artifact-Seite mit PDFs als Seiten-Dateien: Öffnen + „Sichern“ (downloads-Capability). Bild-Rechnungen vorher in PDF umwandeln.
+- Der Inhaber konnte PDFs über normale Links in der Artifact-Seite NICHT öffnen. Lösung: PDF mit pdf.js direkt in der Seite anzeigen (disableFontFace:true, sonst Kästchen statt Text) + downloads-Capability. ZIP mit Ordnern für die Dateien-App als Alternative.
