@@ -30,3 +30,4 @@ Format: `JJJJ-MM-TT · von → an · Aufgabe/Info · Status (offen/erledigt)`
 - SEO-Check 25.11.2026: alle Seiten 200, Titel/Beschreibungen/H1 ok. Reparatur & Montage um Entrümpelung + Laub ergänzt (Zielseite der neuen Google-Anzeigengruppe Kleine Aufträge).
 - Youtilly-Scout 25.11.2026: keine neuen Mails/Ausschreibungen. Köln-Los (Frist 04.12.) wartet weiter auf Inhaber (Mieteinheiten + Preis-OK).
 - 2026-11-25 · Marketing-Chef: Woche = schnelle Einnahmen (Nachfass-Anrufe, offene Angebote, Bewertungen). Neu: Text für Facebook-Gruppen/nebenan.de (akquise-texte Nr. 10). → Video-Creator: Fr ein kurzes Reel „Kleine Aufträge“ aus echten Fotos (Montage/Tür/Entrümpelung), keine Preise. · offen
+- 2026-11-25 · Inhaber → ALLE Helfer · Neuer Skill `natuerlich-schreiben`: vor jedem Text für Menschen anwenden (Social, Google, LinkedIn, Kleinanzeigen, E-Mails, Briefe). Steht auch in CLAUDE.md. · gilt dauerhaft

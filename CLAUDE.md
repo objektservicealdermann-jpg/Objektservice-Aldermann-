@@ -54,6 +54,7 @@ Alle öffentlichen Dateien liegen im Ordner `public/` (nur dieser Ordner geht on
 Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: alles am Laufen halten, regelmäßig Abwechslung (Saison-Band, Fotos, Texte), wöchentlich Google-Beitrag (`marketing/google-beitraege.md`), Instagram-Inhalte (Beiträge + Stories) erstellen. KI-generierte Bilder nie als eigene Arbeitsfotos ausgeben – nur als erkennbare Grafiken.
 
 ## Schreibstil für Social Media & Google-Beiträge (Wunsch des Inhabers)
+- **Gilt für ALLE Helfer/Agenten und alle Texte, die Menschen lesen** (Instagram, Google, LinkedIn, Kleinanzeigen, Website, E-Mails, Briefe, Angebotsanschreiben): vorher den Skill `natuerlich-schreiben` anwenden (`.claude/skills/natuerlich-schreiben/`, Muster-Liste in `references/ki-muster.md`). Texte sollen menschlich klingen, nicht nach KI – z. B. keine langen Gedankenstriche, kein „nicht nur … sondern auch“, keine Dreierreihen, keine KI-Floskeln (Inhaber 25.11.2026).
 - Persönlich und natürlich, in der Wir-Form („wir“ = Objektservice Aldermann) – nicht nach Werbeagentur oder KI klingen.
 - Keine Emoji-Aufzählungen, höchstens mal ein einzelnes Emoji. Keine Floskeln.
 - Kunden siezen („Sie“). Unterschrift immer: „Ihr Team von Objektservice Aldermann“ + 0176 23751407. Nie den Namen des Inhabers als Unterschrift.
