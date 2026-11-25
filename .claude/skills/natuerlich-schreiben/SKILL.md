@@ -1,6 +1,7 @@
 ---
 name: natuerlich-schreiben
-description: Prüft und überarbeitet deutsche Texte so, dass sie nicht nach KI oder Werbeagentur klingen – auf Basis der Wikipedia-Liste „Anzeichen für KI-generierte Inhalte“. Nutze diesen Skill immer, wenn Texte für Objektservice Aldermann geschrieben oder geprüft werden, die Menschen lesen: Instagram-Beiträge, Google-Beiträge, LinkedIn-Beiträge, Kleinanzeigen, Website-Texte, Briefe, Angebotsanschreiben und E-Mails. Auch nutzen, wenn jemand sagt „klingt zu sehr nach KI“, „mach das natürlicher“, „prüf den Text“, „schreib das menschlicher“ oder einen fertigen Text vor dem Posten/Versenden gegenlesen lassen will – auch wenn „KI“ gar nicht erwähnt wird.
+description: >-
+  Prüft und überarbeitet deutsche Texte so, dass sie nicht nach KI oder Werbeagentur klingen – auf Basis der Wikipedia-Liste „Anzeichen für KI-generierte Inhalte“. Nutze diesen Skill immer, wenn Texte für Objektservice Aldermann geschrieben oder geprüft werden, die Menschen lesen: Instagram-Beiträge, Google-Beiträge, LinkedIn-Beiträge, Kleinanzeigen, Website-Texte, Briefe, Angebotsanschreiben und E-Mails. Auch nutzen, wenn jemand sagt „klingt zu sehr nach KI“, „mach das natürlicher“, „prüf den Text“, „schreib das menschlicher“ oder einen fertigen Text vor dem Posten/Versenden gegenlesen lassen will – auch wenn „KI“ gar nicht erwähnt wird.
 ---
 
 # Natürlich schreiben – ohne KI-Muster
