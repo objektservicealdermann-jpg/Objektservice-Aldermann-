@@ -27,3 +27,4 @@ Format: `JJJJ-MM-TT · von → an · Aufgabe/Info · Status (offen/erledigt)`
 - SEO-Check 24.11.2026: 2 dünne Seiten ergänzt (Reparatur & Montage: Türen/Zargen/Einbauten; Hausmeisterservice: So startet die Betreuung), Titel Gartenpflege gekürzt.
 - Youtilly-Scout 24.11.2026: keine neuen Mails/Ausschreibungen. Offen: Köln-Los (Frist 04.12.) wartet auf Anzahl Mieteinheiten + Preis-OK; Nachweise (Gewerbe-Zweitschrift beantragt, Haftpflicht) fehlen noch.
 - Video-Creator 24.11.2026: erstes Reel aus echter Handyaufnahme (Formschnitt-Hecken) mit neuem Skript marketing/reel_video.py geschnitten, wartet auf Freigabe. Stil-Beispiel des Inhabers liegt vor (Instagram-Reel vom 23.11.).
+- SEO-Check 25.11.2026: alle Seiten 200, Titel/Beschreibungen/H1 ok. Reparatur & Montage um Entrümpelung + Laub ergänzt (Zielseite der neuen Google-Anzeigengruppe Kleine Aufträge).
