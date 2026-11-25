@@ -35,6 +35,8 @@ Alle öffentlichen Dateien liegen im Ordner `public/` (nur dieser Ordner geht on
 - Google-Bewertung „5,0“ ist fest eingetragen (Startseite) – bei Änderungen der Bewertung anpassen
 - `impressum/`, `datenschutz/`, `404.html`
 - `css/style.css`, `js/main.js`, `img/`, `video/`, `sitemap.xml`, `robots.txt`, `_headers`
+- Website-Texte in der **Wir-Form** (seit 25.11.2026, Wunsch des Inhabers), nicht „ich“. Jan-Luca wird in der dritten Person genannt („Jan-Luca Aldermann ist gelernter Schreiner“). Fragen aus Kundensicht in FAQs („Kann ich …?“) und echte Bewertungen bleiben unverändert.
+- Startseite: Logo-Animation oben im Hero (video/logo-intro.mp4, einmal pro Besuch, überspringbar).
 - Kopf- und Fußbereich sind in jeder HTML-Datei enthalten – Änderungen dort auf allen Seiten nachziehen.
 - Keine externen Schriften, Skripte oder Cookies (Datenschutz). Einzige Ausnahme seit 23.11.2026 (Inhaber-OK): Besucherstatistik PostHog cookieless (EU, Projekt 364742, Bibliothek selbst gehostet in `js/vendor/posthog.js`, Einbindung `js/stats.js`, zählt Seitenaufrufe + Klicks Anrufen/WhatsApp/E-Mail, steht in `datenschutz/` Abschnitt 4). Keine Session-Aufnahmen/Heatmaps/Autocapture einschalten. Neue Dienste immer in `datenschutz/` ergänzen.
 - Nach Änderungen `sitemap.xml` (lastmod) aktualisieren.
