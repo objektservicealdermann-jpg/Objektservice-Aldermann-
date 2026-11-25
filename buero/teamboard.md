@@ -31,3 +31,4 @@ Format: `JJJJ-MM-TT · von → an · Aufgabe/Info · Status (offen/erledigt)`
 - Youtilly-Scout 25.11.2026: keine neuen Mails/Ausschreibungen. Köln-Los (Frist 04.12.) wartet weiter auf Inhaber (Mieteinheiten + Preis-OK).
 - 2026-11-25 · Marketing-Chef: Woche = schnelle Einnahmen (Nachfass-Anrufe, offene Angebote, Bewertungen). Neu: Text für Facebook-Gruppen/nebenan.de (akquise-texte Nr. 10). → Video-Creator: Fr ein kurzes Reel „Kleine Aufträge“ aus echten Fotos (Montage/Tür/Entrümpelung), keine Preise. · offen
 - 2026-11-25 · Inhaber → ALLE Helfer · Neuer Skill `natuerlich-schreiben`: vor jedem Text für Menschen anwenden (Social, Google, LinkedIn, Kleinanzeigen, E-Mails, Briefe). Steht auch in CLAUDE.md. · gilt dauerhaft
+- 2026-11-25 · Inhaber → Video-Creator · Logo-Schluss marketing/assets/logo-outro-reel.mp4 (6 s, Hochformat, mit Telefon) künftig ans Ende jedes Reels hängen. · gilt dauerhaft
