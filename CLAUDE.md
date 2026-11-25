@@ -93,6 +93,9 @@ Claude ist dauerhaft für Website, Google-Profil und Social Media zuständig: al
 ## Objektbuch
 - Digitales Objektbuch (Einsätze, Mängel, Reparaturen, Tonnen, Winterdienst, Notizen je Objekt): https://claude.ai/artifact/5v9gYnBV7pY4h31w4JtikS – Daten per ArtifactData (Sammlungen `objekte`, `eintraege`). Grundlage für Monatsberichte an Kunden. Sprachnachrichten/Fotos des Inhabers dort eintragen.
 
+## Ablage (Angebote & Rechnungen)
+- Private Ablage-Seite nach Kunde: https://claude.ai/artifact/NTKwHTu1YZKCLAVbra7dy3 (PDFs als Dateien der Seite, Quelle im Scratchpad `ablage/`). Jedes neue Angebot, jede neue Rechnung und jeden unterschriebenen Auftrag dort ergänzen. Kunden-PDFs nie ins Repo.
+
 ## Akquise
 - Anrufliste Hausverwaltungen (Status/Notizen, db-Sammlung `anrufe`, Doc-ID = nr aus buero/hausverwaltungen.json): https://claude.ai/artifact/74sqdSFm1qDx98Tv7owhfv
 - Texte (Bewertungsbitte mit Direktlink, Kleinanzeigen, Telefon-Leitfaden): `marketing/akquise-texte.md`. Google-Bewertungslink: https://search.google.com/local/writereview?placeid=ChIJa7bdtl4Bpy4Rbkde75itTR8

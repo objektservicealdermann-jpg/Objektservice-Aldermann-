@@ -42,3 +42,6 @@ Format: `JJJJ-MM-TT · Helfer · Erkenntnis`
 - 24.11.2026 · Video-Creator: Für echte Handyvideos gibt es jetzt marketing/reel_video.py (Clip zuschneiden auf 1080x1920, Logo oben, Texte aus JSON, Schlusskarte, eigene Musik, Originalton und Metadaten raus). Danach mit crf 25 nachkomprimieren, sonst wird die Datei ~36 MB groß.
 - 24.11.2026 · Kleinanzeigen: Es sind nur 2 Anzeigen gleichzeitig online möglich (Info Inhaber). Deshalb Leistungen in Kombi-Anzeigen bündeln und saisonal tauschen (Winter: Winterdienst + Kleine Aufträge; ab März: Garten/Hecke).
 - 25.11.2026 · Fahrzeugfolierung: Eigene Foto-Entwürfe (Zeichnung und Foto-Montage) kamen beim Inhaber nicht an. Künftig keine Folierungs-Entwürfe selbst bauen, sondern Briefing + Logo-Dateien für einen Profi-Folierer vorbereiten. Vorgaben des Inhabers: Schwarz/Rot, Farbverlauf vom Besch-Blau ins Rot, beide Logos gut sichtbar, Stil kantig wie Beispiel-Foto.
+
+## 25.11.2026 – Ablage
+- Angebote/Rechnungen als private Artifact-Seite mit PDFs als Seiten-Dateien: Öffnen + „Sichern“ (downloads-Capability). Bild-Rechnungen vorher in PDF umwandeln.
