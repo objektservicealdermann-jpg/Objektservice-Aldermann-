@@ -2,5 +2,5 @@
 Nicht live. Zum Freischalten:
   git apply marketing/vorschau/website-intro.patch
   cp marketing/vorschau/logo-intro.mp4 public/video/
-  cp marketing/vorschau/logo-intro-poster.jpg public/img/
-Intro läuft einmal pro Besuch (sessionStorage), überspringbar, nicht für Bots/reduced-motion.
+  
+Logo-Animation (dunkel) oben im Video-Bereich der Startseite, danach normales Hero-Video. Einmal pro Besuch, antippen zum Überspringen, nicht für Bots/reduced-motion.
