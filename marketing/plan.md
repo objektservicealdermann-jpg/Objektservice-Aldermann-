@@ -23,3 +23,7 @@ Grenzen: keine Spam-Mails (UWG §7), keine gekauften/gefälschten Bewertungen, k
 - 23.11.2026: Kleinanzeigen online: Heckenschnitt & Gartenpflege, Winterdienst (Bilder mit Logo im Querformat 1200x900). Noch offen: Hausmeisterservice, Zaun/Montage.
 - 23.11.2026: Google-Ads-Suchkampagne gestartet (5 €/Tag, Winterdienst + Hausmeisterservice, 20 km um Jülich). Erste Auswertung am 01.12.2026.
 - 23.11.2026: SEO: Titel/Beschreibungen gekürzt, H1 mit Leistung+Ort, Preise von der Website entfernt.
+- 24.11.2026: Google Ads: neue Anzeigengruppe „Kleine Aufträge“ (Montage, Reparatur, Laub, Entrümpelung), automatische Kampagne Performance Max-1 pausiert, Budget unverändert 5 €/Tag. Reel Formschnitt + Beitrag Aufzugstür auf Instagram.
+- 24.11.2026: Kleinanzeigen-Texte für kleine Aufträge + Kombi-Anzeige (nur 2 Anzeigen gleichzeitig möglich → Winter: Winterdienst + Kleine Aufträge).
+- 25.11.2026: Schwerpunkt der Woche = schnelle Einnahmen: (1) Nachfass-Anrufe Hausverwaltungen (8 nahe zuerst), (2) offene Angebote selbst nachtelefonieren (Zaun, Winterdienst, Aachen), (3) Bewertungen sammeln. Neu vorbereitet: Text für lokale Facebook-Gruppen/nebenan.de (akquise-texte.md Nr. 10) – kostenlos, bringt schnell Privatkunden.
+

@@ -82,6 +82,17 @@ Schicken Sie einfach ein Foto per WhatsApp – wir melden uns schnell.
 Objektservice Aldermann · 0176 23751407
 **Fotos:** public/img/moebel-reparatur.jpg (Titelbild), public/img/innenausbau-tuerrahmen.jpg, public/img/innenhof-gartenpflege.jpg, public/social/post-entruempelung-vorher-nachher.jpg
 
+### 10. Lokale Facebook-Gruppen / nebenan.de (neu 25.11.2026, kostenlos)
+Gruppen z. B. „Jülich – Biete/Suche“, „Du bist Jülicher, wenn …“, Nachbarschaft auf nebenan.de. Vorher Gruppenregeln lesen (Werbung oft nur an bestimmten Tagen erlaubt). Ein Foto dazu (Vorher/Nachher wirkt am besten).
+Hallo zusammen, ich bin Jan-Luca, gelernter Schreiner aus Jülich, und habe mich mit Objektservice Aldermann selbstständig gemacht. Ich habe in den nächsten Wochen noch Termine frei für:
+- Möbel- und Küchenmontage
+- Kleinreparaturen (Türen einstellen, Schränke, Leisten)
+- Laub entfernen und Garten winterfest machen
+- Entrümpelung von Keller oder Dachboden
+- Winterdienst (Schnee räumen und streuen) für Häuser und Einfahrten
+Einfach kurz per WhatsApp ein Foto schicken, dann melde ich mich schnell: 0176 23751407
+Ich freue mich, wenn ihr mich weiterempfehlt!
+
 ## Telefon-Leitfaden Nachfass-Anruf Hausverwaltungen
 1. „Guten Tag, Aldermann vom Objektservice Aldermann aus Jülich. Ich hatte Ihnen letzte Woche einen Brief geschickt – Hausmeister- und Gartenservice mit fester Monatspauschale. Sind Sie die richtige Ansprechperson dafür?“
 2. „Haben Sie aktuell Objekte, bei denen der Hausmeister oder die Gartenpflege nicht so läuft, wie Sie sich das wünschen – oder wo gerade jemand fehlt, z. B. beim Winterdienst?“
