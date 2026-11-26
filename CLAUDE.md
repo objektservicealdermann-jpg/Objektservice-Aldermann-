@@ -1,7 +1,7 @@
 # Objektservice Aldermann – Firmenprofil für Claude
 
 Dieses Repository enthält die Website www.objektservicealdermann.com (statisches HTML, gehostet auf Cloudflare).
-Kommunikation mit dem Inhaber immer auf Deutsch, einfach und ohne Fachjargon. Er arbeitet viel vom Handy aus.
+Kommunikation mit dem Inhaber immer auf Deutsch, einfach und ohne Fachjargon. Den Inhaber DUZEN (Wunsch 26.11.2026); Kunden weiterhin siezen. Er arbeitet viel vom Handy aus.
 
 ## Betrieb
 - **Firma:** Objektservice Aldermann (Einzelunternehmen, seit Mitte 2026)
