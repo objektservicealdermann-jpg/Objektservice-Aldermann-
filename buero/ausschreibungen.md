@@ -30,3 +30,6 @@
 
 ## Scout 23.11.2026
 - Keine neuen passenden Ausschreibungen oder Gesuche gefunden (TED/Vergabe Kreis Düren, Aachen, Heinsberg, MG; Kleinanzeigen Winterdienst). Merzenich Grünpflege 2025/2027 bereits vergeben.
+
+## Scout 26.11.2026
+- Keine neuen passenden Funde. Geprüft, nicht passend: WVER „Grünflächenpflege UB Ost – Los 4 Langerwehe / Los 5 Kanal“ (bereits vergeben); „Winterdienst maschinell 2027–2032“ Bad Münstereifel (Frist 29.12.2026, außerhalb Gebiet, Großgerät); Gebäudereinigung Stadt Aachen 5 Lose und Reinigung Roetgen (reine Innenreinigung); Kleinanzeigen „Winterdienst Subunternehmer Düren/MG/Düsseldorf“ über Gebäudereinigung.com (Düren-Anzeige gelöscht, verlangt Personal + Fahrzeuge).
