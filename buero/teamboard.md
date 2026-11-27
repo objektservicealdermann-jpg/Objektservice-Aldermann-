@@ -35,3 +35,4 @@ Format: `JJJJ-MM-TT · von → an · Aufgabe/Info · Status (offen/erledigt)`
 - SEO-Check 26.11.2026: sauber (11 Seiten, alle 200, Titel/Beschreibungen/H1/Alt-Texte ok, keine Preise, JSON-LD gültig; Impressum/Datenschutz bewusst nicht in der Sitemap).
 - Youtilly-Scout 26.11.2026: keine neuen Mails/Ausschreibungen. Köln-Los (Frist 04.12.) wartet weiter auf Inhaber (Mieteinheiten + Preis-OK).
 - SEO-Check 27.11.2026: sauber
+- Youtilly-Scout 27.11.2026: neue Lose gesichtet. Passend/nah: Köln C5110AA3 (Frist 04.12., wartet auf Inhaber), Düsseldorf 5 Einzelobjekte Treppenhausreinigung (Frist 04.12., 12 Uhr), MG CA0682CD 58 Objekte (Frist 01.12., zu groß?), MG 3EFF99D0 1 Objekt (Frist 27.11. 13:17, zu knapp). Rest Ruhrgebiet/Nord – nicht passend. Inhaber gefragt.
