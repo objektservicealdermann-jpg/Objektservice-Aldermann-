@@ -27,3 +27,4 @@ Grenzen: keine Spam-Mails (UWG §7), keine gekauften/gefälschten Bewertungen, k
 - 24.11.2026: Kleinanzeigen-Texte für kleine Aufträge + Kombi-Anzeige (nur 2 Anzeigen gleichzeitig möglich → Winter: Winterdienst + Kleine Aufträge).
 - 25.11.2026: Schwerpunkt der Woche = schnelle Einnahmen: (1) Nachfass-Anrufe Hausverwaltungen (8 nahe zuerst), (2) offene Angebote selbst nachtelefonieren (Zaun, Winterdienst, Aachen), (3) Bewertungen sammeln. Neu vorbereitet: Text für lokale Facebook-Gruppen/nebenan.de (akquise-texte.md Nr. 10) – kostenlos, bringt schnell Privatkunden.
 
+- 27.11.2026: Lage: Google-Profil 7 Tage nur 8 Aufrufe, 1 Website-Klick, 0 Anrufe; Anrufliste Hausverwaltungen noch leer (Nachfass-Anrufe nicht gemacht). Schwerpunkt bleibt: Bewertungen (wenige Bewertungen = wenig Sichtbarkeit), Youtilly Düsseldorf/Köln (Frist 04.12.), Nachfassen Winterdienst Schagen. Inhaber hat diese Woche volle Einsatztage (Aachen) – daher nur 3 Handgriffe.
