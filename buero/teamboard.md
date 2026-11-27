@@ -37,3 +37,4 @@ Format: `JJJJ-MM-TT · von → an · Aufgabe/Info · Status (offen/erledigt)`
 - SEO-Check 27.11.2026: sauber
 - Youtilly-Scout 27.11.2026: neue Lose gesichtet. Passend/nah: Köln C5110AA3 (Frist 04.12., wartet auf Inhaber), Düsseldorf 5 Einzelobjekte Treppenhausreinigung (Frist 04.12., 12 Uhr), MG CA0682CD 58 Objekte (Frist 01.12., zu groß?), MG 3EFF99D0 1 Objekt (Frist 27.11. 13:17, zu knapp). Rest Ruhrgebiet/Nord – nicht passend. Inhaber gefragt.
 - 2026-11-27 · Marketing-Chef: Woche = Bewertungen + Youtilly Düsseldorf/Köln. → Google-Helfer: Di-Beitrag zum Thema Baustellen-Endreinigung/Möbelmontage (keine Kundennamen, keine Adressen). → Video-Creator: Vorher/Nachher-Reel, sobald Inhaber Clip schickt. · offen
+- 2026-11-27 · Video-Creator: Foto-Reel „Montage“ (Sichtschutz vorher/nachher, Möbelaufbau, Schreinerarbeit) mit Logo-Schluss erstellt, wartet auf Freigabe. Lernpunkt: Texte müssen zum Foto passen (Sichtschutz-Foto nicht als Baureinigung ausgeben). · Freigabe offen
